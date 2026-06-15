@@ -367,37 +367,17 @@ Das Pflichtenheft ist den durch die ständige Entwicklung der SFKV veränderten 
 
 ### Artikel 49 Kommissionen
 
-Der Zentralvorstand ist ermächtigt aus dem Zentralvorstands-Gremium
-Kommissionen personell zu formieren und mit Funktionen, Pflichten und
-Rechten auszustatten. Bei Bedarf können auch externe Personen beigezogen
-werden.
+Der Zentralvorstand ist ermächtigt aus dem Zentralvorstands-Gremium Kommissionen personell zu formieren und mit Funktionen, Pflichten und Rechten auszustatten. Bei Bedarf können auch externe Personen beigezogen werden.
 
 ### Artikel 50 Die Rechnungsprüfungskommission, Wahlsystem und Wählbarkeit
 
-Die Rechnungsprüfungs-Kommission besteht aus vier Revisoren und ein Chef
-Rechnungsprüfungs-Kommission. Sie wird durch die Delegiertenversammlung
-bestellt, wobei jährlich der amtsälteste Revisor ausscheidet und ein
-neues Mitglied in die Rechnungsprüfungs-Kommission gewählt wird. Der
-Chef Rechnungsprüfungs-Kommission wird im ZV-Wahlturnus jeweils für zwei
-Jahre gewählt. Für alle Mitglieder der Rechnungsprüfungs-Kommission
-besteht Wiederwählbarkeit.
+Die Rechnungsprüfungs-Kommission besteht aus vier Revisoren und ein Chef Rechnungsprüfungs-Kommission. Sie wird durch die Delegiertenversammlung bestellt, wobei jährlich der amtsälteste Revisor ausscheidet und ein neues Mitglied in die Rechnungsprüfungs-Kommission gewählt wird. Der Chef Rechnungsprüfungs-Kommission wird im ZV-Wahlturnus jeweils für zwei Jahre gewählt. Für alle Mitglieder der Rechnungsprüfungs-Kommission besteht Wiederwählbarkeit.
 
 ### Artikel 51 Funktion der Rechnungsprüfungskommission generell und in besonderen Fällen
 
-Die Rechnungsprüfungs-Kommission obliegt die Prüfung der Jahresrechnung
-der Zentralkasse und der Kranzkarten-Kasse und die Erstellung eines
-Berichtes zuhanden der ordentlichen Delegiertenversammlung. Sie
-untersteht grundsätzlich nur
+Die Rechnungsprüfungs-Kommission obliegt die Prüfung der Jahresrechnung der Zentralkasse und der Kranzkarten-Kasse und die Erstellung eines Berichtes zuhanden der ordentlichen Delegiertenversammlung. Sie untersteht grundsätzlich nur dem obersten Organ (DV) der SFKV und ist in ihren Funktionen gegenüber dem Zentralvorstand in übergeordneter Position.
 
-dem obersten Organ (DV) der SFKV und ist in ihren Funktionen gegenüber
-dem Zentralvorstand in übergeordneter Position.
-
-Die Aufgaben des Chefs der Rechnungsprüfungs-Kommission werden durch den
-Zentralvorstand in einem Pflichtenheft mit den Hauptkomponenten
-Organisation und Leitung der Rechnungsprüfung, Führung der
-Revisions-Dokumentation, Unterstützung der UV-Revisoren durch
-Instruktion, Beratung des Zentralvorstandes in Finanzfragen,
-umschrieben.
+Die Aufgaben des Chefs der Rechnungsprüfungs-Kommission werden durch den Zentralvorstand in einem Pflichtenheft mit den Hauptkomponenten Organisation und Leitung der Rechnungsprüfung, Führung der Revisions-Dokumentation, Unterstützung der UV-Revisoren durch Instruktion, Beratung des Zentralvorstandes in Finanzfragen, umschrieben.
 
 ---
 
@@ -405,43 +385,23 @@ umschrieben.
 
 ### Artikel 52 Grundsatzbestimmungen für die Unterverbände, betreffend den Möglichkeiten der autonomen Gestaltung des Vereins-Betriebes
 
-Die Unterverbände sind in den Bereichen Administration und Sport
-grundsätzlich autonom. Sie haben sich bei der Gestaltung ihres
-Vereinsbetriebes jedoch strikte an die vorliegenden Statuten, an die
-SFKV-Sportreglemente sowie an die verbindlichen Anleitungen des
-Zentralvorstandes und die Beschlüsse der SFKV-Delegiertenversammlung zu
-halten.
+Die Unterverbände sind in den Bereichen Administration und Sport grundsätzlich autonom. Sie haben sich bei der Gestaltung ihres Vereinsbetriebes jedoch strikte an die vorliegenden Statuten, an die SFKV-Sportreglemente sowie an die verbindlichen Anleitungen des Zentralvorstandes und die Beschlüsse der SFKV-Delegiertenversammlung zu halten.
 
 ### Artikel 53 Organisation der Autonomität innerhalb von Kantonal-Verbänden
 
-Sind Unterverbände im Sinne von Artikel 5 zu Kantonalverbänden
-zusammengeschlossen, bestimmen diese selbst im Rahmen von Vereinbarungen
-auf kantonaler Ebene, vorzugsweise in kantonalen Statuten, inwieweit die
-Unterverbände ihre Interessen gegenüber dem Zentralvorstand selbständig
-wahrnehmen bzw. hiezu über den Kantonalverband an den Zentralverband zu
-gelangen haben. Die Kontrolle über die Einhaltung solcher Regelungen
-obliegt den Kantonalverbänden.
+Sind Unterverbände im Sinne von Artikel 5 zu Kantonalverbänden zusammengeschlossen, bestimmen diese selbst im Rahmen von Vereinbarungen auf kantonaler Ebene, vorzugsweise in kantonalen Statuten, inwieweit die Unterverbände ihre Interessen gegenüber dem Zentralvorstand selbständig wahrnehmen bzw. hiezu über den Kantonalverband an den Zentralverband zu gelangen haben. Die Kontrolle über die Einhaltung solcher Regelungen obliegt den Kantonalverbänden.
 
 ### Artikel 54 Zuständige Instanzen für die Leitung des Vereinsbetriebes in den Unterverbänden; Pflicht zur Verankerung von eigenen Bestimmungen
 
-Die Leitung und Überwachung des Vereinsbetriebes in den Unterverbänden
-und in den Kantonalverbänden obliegt den Organen gemäss Artikel 28 und
-Artikel 29. Unterverbände, die im Rahmen ihrer Kompetenzen eigene
-Bestimmungen erlassen sind verpflichtet, diese entweder in Statuten, in
-Reglemente oder in Organisationsplänen zu verankern und diese durch den
-Zentralvorstand ratifizieren zu lassen.
+Die Leitung und Überwachung des Vereinsbetriebes in den Unterverbänden und in den Kantonalverbänden obliegt den Organen gemäss Artikel 28 und Artikel 29. Unterverbände, die im Rahmen ihrer Kompetenzen eigene Bestimmungen erlassen sind verpflichtet, diese entweder in Statuten, in Reglemente oder in Organisationsplänen zu verankern und diese durch den Zentralvorstand ratifizieren zu lassen.
 
 ### Artikel 55 Mitgliederdaten
 
-Die Unterverbände sind verpflichtet, die Mitgliederdaten gemäss den
-Richtlinien zu pflegen
+Die Unterverbände sind verpflichtet, die Mitgliederdaten gemäss den Richtlinien zu pflegen
 
 ### Artikel 56 Teilnahme an der Unterverbands-Mitgliederversammlung
 
-Mindestens zwei Mitglieder des Zentralvorstandes sind an die
-Generalversammlung einzuladen, wenn die Auflösung oder Fusion des
-Unterverbandes oder der Austritt aus der Schweizerischen Freien
-Keglervereinigung traktandiert ist. Dessen Vertretung ist anzuhören.
+Mindestens zwei Mitglieder des Zentralvorstandes sind an die Generalversammlung einzuladen, wenn die Auflösung oder Fusion des Unterverbandes oder der Austritt aus der Schweizerischen Freien Keglervereinigung traktandiert ist. Dessen Vertretung ist anzuhören.
 
 ---
 
@@ -449,27 +409,12 @@ Keglervereinigung traktandiert ist. Dessen Vertretung ist anzuhören.
 
 ### Artikel 57 Kompetenzen generell; Einnahmen der Zentralkasse
 
-Soweit die Stauten nichts Anderes bestimmen, fallen die finanziellen
-Belange des SFKV-Zentralverbandes generell in den Kompetenzbereich der
-SFKV Delegiertenversammlung. Delegiertenversammlungs-Beschlüsse, die für
-die Unterverbände in finanziellen Angelegenheiten einen verpflichtenden
-Auftrag darstellen, sowie die finanziellen Verbindlichkeiten zwischen
-Organisatoren von schweizerischen Anlässen und dem Zentralverband, sind
-in einer verbindlichen Anleitung zu verankern. Zur Bestreitung des
-Finanzhaushaltes verfügt die Zentralkasse über Einnahmen aus folgenden
-Quellen:
-
-- Mitgliederbeiträge, die von der Delegiertenversammlung festgesetzt
-  wurden und durch die Unterverbände erhoben werden
-
-- Vergütung der Organisatoren von schweizerischen Anlässen gemäss
-  DV-Beschluss (Artikel 72)
-
-- Erlös aus Kranzkarten gemäss Konzeptions-Bestimmungen
-
-- Einnahmen aus SFKV-Vereinsaktivitäten
-
-- Sponsorenbeiträge
+Soweit die Stauten nichts Anderes bestimmen, fallen die finanziellen Belange des SFKV-Zentralverbandes generell in den Kompetenzbereich der SFKV Delegiertenversammlung. Delegiertenversammlungs-Beschlüsse, die für die Unterverbände in finanziellen Angelegenheiten einen verpflichtenden Auftrag darstellen, sowie die finanziellen Verbindlichkeiten zwischen Organisatoren von schweizerischen Anlässen und dem Zentralverband, sind in einer verbindlichen Anleitung zu verankern. Zur Bestreitung des Finanzhaushaltes verfügt die Zentralkasse über Einnahmen aus folgenden Quellen:  
+a) Mitgliederbeiträge, die von der Delegiertenversammlung festgesetzt   wurden und durch die Unterverbände erhoben werden  
+b) Vergütung der Organisatoren von schweizerischen Anlässen gemäss DV-Beschluss (Artikel 72)  
+c) Erlös aus Kranzkarten gemäss Konzeptions-Bestimmungen  
+d) Einnahmen aus SFKV-Vereinsaktivitäten  
+e) Sponsorenbeiträge
 
 ### Artikel 58 Sonderregelung für die SFKV-Ehrenmitglieder betreffend Beitragspflicht
 
@@ -477,67 +422,36 @@ SFKV Ehrenmitglieder erhalten die SFKV-Lizenz kostenlos.
 
 ### Artikel 59 Finanzielle Aspekte in Bezug auf den Geschäftsbereich „Kranzkarte“
 
-Die finanziellen Aspekte und Befugnisse betreffend den Geschäftsbereich
-„Kranzkarte“ sind in den entsprechenden Konzeptionen enthalten.
-Diesbezügliche Änderungen bedürfen grundsätzlich der Genehmigung durch
-die Delegiertenversammlung; die Konzeptionen können Ausnahmen hierzu
-allerdings bestimmen.
+Die finanziellen Aspekte und Befugnisse betreffend den Geschäftsbereich  „Kranzkarte“ sind in den entsprechenden Konzeptionen enthalten. Diesbezügliche Änderungen bedürfen grundsätzlich der Genehmigung durch die Delegiertenversammlung; die Konzeptionen können Ausnahmen hierzu allerdings bestimmen.
 
 ### Artikel 60 Spesenvergütung an die ZV-Mitglieder, Kommissions-Mitglieder, Ehrenmitglieder, Rechnungsprüfungs-Kommission, Zentralfähnrich und Fahnendelegationen
 
-Die Höhe eines Sitzungsgeldes bzw. Tagesgeldes an die Mitglieder des
-Zentralvorstandes und der Kommissionen für Einsätze gemäss Artikel 46
-und Artikel 51 wird von der SFKV Delegiertenversammlung festgesetzt,
-ebenso die Entrichtung von Reisespesen-Entschädigungen. Die Vergütung
-von zusätzlichen Spesen bei ausserordentlichen Einsätzen von Mitgliedern
-des Zentralvorstandes und der Kommissionen (Repräsentationsspesen,
-Übernachtungskosten etc.) liegt in der Entscheidungskompetenz des
-Zentralpräsidenten, der hierfür auch die verantwortbaren Limiten
-festzusetzen hat.
+Die Höhe eines Sitzungsgeldes bzw. Tagesgeldes an die Mitglieder des Zentralvorstandes und der Kommissionen für Einsätze gemäss Artikel 46 und Artikel 51 wird von der SFKV Delegiertenversammlung festgesetzt, ebenso die Entrichtung von Reisespesen-Entschädigungen. Die Vergütung von zusätzlichen Spesen bei ausserordentlichen Einsätzen von Mitgliedern des Zentralvorstandes und der Kommissionen (Repräsentationsspesen, Übernachtungskosten etc.) liegt in der Entscheidungskompetenz des Zentralpräsidenten, der hierfür auch die verantwortbaren Limiten festzusetzen hat.
 
-Die schweizerischen Ehrenmitglieder haben Anspruch auf Sitzungsgeld
-sowie Reisespesen bei Teilnahmen an:
-
-- SFKV Delegiertenversammlung
-
+Die schweizerischen Ehrenmitglieder haben Anspruch auf Sitzungsgeld sowie Reisespesen bei Teilnahmen an:  
+- SFKV Delegiertenversammlung  
 - Sitzungen des Zentralvorstandes
 
-Mitglieder der Rechnungsprüfungs-Kommission haben Anspruch auf
-Sitzungsgeld sowie Reisespesen bei Teilnahmen an:
-
-- SFKV Delegiertenversammlung
-
-- Erweiterten Sitzungen des Zentralvorstandes
-
+Mitglieder der Rechnungsprüfungs-Kommission haben Anspruch auf Sitzungsgeld sowie Reisespesen bei Teilnahmen an:  
+- SFKV Delegiertenversammlung  
+- Erweiterten Sitzungen des Zentralvorstandes  
 - Kassen-Revision und ähnlichen Einsätzen im Sinne von Artikel 51
 
-Der Zentralfähnrich bzw. eine Zentralfahnen-Delegation wird bei
-offiziellen Einsätzen, bei Aufgebot durch den Zentralvorstand, nach den
-für Mitglieder des Zentralvorstandes und der Delegationen geltenden
-Ansätzen, durch die Zentralkasse vergütet.
+Der Zentralfähnrich bzw. eine Zentralfahnen-Delegation wird bei offiziellen Einsätzen, bei Aufgebot durch den Zentralvorstand, nach den für Mitglieder des Zentralvorstandes und der Delegationen geltenden Ansätzen, durch die Zentralkasse vergütet.
 
 ### Artikel 61 Ausgaben-Kompetenz des Zentralvorstandes bzw. der SFKV Delegiertenversammlung
 
-Einmalige Ausgaben bis zum Betrag von CHF 5‘000.00 fallen in den
-Kompetenzbereich des Zentralvorstandes. Solche über CHF 5‘000.00
-bedürfen der Genehmigung durch die SFKV Delegiertenversammlung.
+Einmalige Ausgaben bis zum Betrag von CHF 5‘000.00 fallen in den Kompetenzbereich des Zentralvorstandes. Solche über CHF 5‘000.00 bedürfen der Genehmigung durch die SFKV Delegiertenversammlung.
 
 ### Artikel 62 Verrechnungsmodalitäten der Mitgliederbeiträge
 
-Die Mitgliederbeiträge (Lizenzkosten) werden mit dem Versand der
-Lizenzen in Rechnung gestellt und sind innerhalb von 30 Tagen zu
-bezahlen. Es gelten folgende Verrechnungsmodalitäten:
+Die Mitgliederbeiträge (Lizenzkosten) werden mit dem Versand der Lizenzen in Rechnung gestellt und sind innerhalb von 30 Tagen zu bezahlen. Es gelten folgende Verrechnungsmodalitäten:
 
-Lizenzen
+**Lizenzen**
 
-- Die effektiv erstellten Lizenzen innerhalb des ganzen Jahres werden
-  verrechnet. Bei Austritten innerhalb des Jahres wird keine Gutschrift
-  erstellt.
+Die effektiv erstellten Lizenzen innerhalb des ganzen Jahres werden verrechnet. Bei Austritten innerhalb des Jahres wird keine Gutschrift erstellt.
 
-- Einzelkegler, die während des Jahres den Verband wechseln und einem
-  Klub beitreten (Artikel 22 im Sportreglement und Artikel 13 Statuten)
-  müssen eine neue Lizenz lösen. Diese muss durch den neuen Verband zu
-  100% bezahlt werden.
+Einzelkegler, die während des Jahres den Verband wechseln und einem Klub beitreten (Artikel 22 im Sportreglement und Artikel 13 Statuten) müssen eine neue Lizenz lösen. Diese muss durch den neuen Verband zu 100% bezahlt werden.
 
 ---
 
@@ -549,13 +463,11 @@ Die SFKV führt eine Homepage als offizielles Informationsorgan
 
 ### Artikel 64 Organisatorische Grundlagen
 
-Auftragnehmer: der Auftragnehmer wird durch den SFKV-Zentralvorstand
-gewählt.
+Auftragnehmer: der Auftragnehmer wird durch den SFKV-Zentralvorstand gewählt.
 
 Konzept: die Hauptrubriken werden in den Pflichtenheften festgehalten
 
-Pflichtenheft Homepage: der Zentralvorstand verantwortet die Erstellung
-und laufende Anpassungen
+Pflichtenheft Homepage: der Zentralvorstand verantwortet die Erstellung und laufende Anpassungen
 
 Auftragnehmer: Der Zentralvorstand wählt die Auftragnehmer.
 
@@ -563,9 +475,7 @@ Rechte: Inhaberin der Homepage und des Keglerfreundes ist die SFKV.
 
 ### Artikel 65 Geschäftsführende Instanz
 
-Die Verträge mit den Auftragnehmern sind auf 2 Jahre abzuschliessen und
-erneuern sich jeweils stillschweigend um ein weiteres Jahr, sofern keine
-Kündigungen gemäss Vertrag eingegangen sind.
+Die Verträge mit den Auftragnehmern sind auf 2 Jahre abzuschliessen und erneuern sich jeweils stillschweigend um ein weiteres Jahr, sofern keine Kündigungen gemäss Vertrag eingegangen sind.
 
 ---
 
@@ -573,50 +483,27 @@ Kündigungen gemäss Vertrag eingegangen sind.
 
 ### Artikel 66 Die sportlichen Aktivitäten im Sinne des SFKV-Vereinszwecks; Hinweis auf die reglementarischen Verbindlichkeiten
 
-Zur Pflege und Förderung des SFKV-Vereinszwecks im Sinne von Artikel 3
-werden innerhalb der SFKV verschiedenartige kegelsportliche
-Veranstaltungen ausgetragen, die entweder vom lokalen (Unterverband),
-regionaler (Kantonalverband) oder gesamtschweizerischer Bedeutung sind.
+Zur Pflege und Förderung des SFKV-Vereinszwecks im Sinne von Artikel 3 werden innerhalb der SFKV verschiedenartige kegelsportliche Veranstaltungen ausgetragen, die entweder vom lokalen (Unterverband), regionaler (Kantonalverband) oder gesamtschweizerischer Bedeutung sind.
 
-Die Verbindlichkeiten für sämtliche Sportveranstaltungen innerhalb der
-SFKV sind in den Sportreglementen und soweit es sich bei schweizerischen
-Anlässen um rein organisatorische Belange handelt, zusätzlich in
-Richtlinien enthalten.
+Die Verbindlichkeiten für sämtliche Sportveranstaltungen innerhalb der SFKV sind in den Sportreglementen und soweit es sich bei schweizerischen Anlässen um rein organisatorische Belange handelt, zusätzlich in Richtlinien enthalten.
 
 ### Artikel 67 Verantwortliche Instanzen für die Abwicklung des Sportbetriebes in den Unterverbänden und Kantonalverbänden 
 
-Für die ordnungsgemässe Abwicklung des Sportbetriebes in den
-Unterverbänden sind die Unterverbands-Vorstände vollumfänglich zuständig
-und verantwortlich; bei kantonalen Veranstaltungen die Kantonalverbände.
+Für die ordnungsgemässe Abwicklung des Sportbetriebes in den Unterverbänden sind die Unterverbands-Vorstände vollumfänglich zuständig und verantwortlich; bei kantonalen Veranstaltungen die Kantonalverbände.
 
 ### Artikel 68 Mindestanforderungen gegenüber den Unterverbänden in Bezug auf den Umfang des sportlichen Tätigkeitsprogramms
 
-Die Unterverbände haben mindestens jährlich ein Jahresprogramm bestehend
-aus mehreren Unterverbandsmeisterschaften zu organisieren, das als
-Grundlage für den Auf- und Abstieg (gemäss Artikel 23 Sportreglement)
-dient. Darüber hinaus ist es den Unterverbänden freigestellt, das
-sportliche Tätigkeitsprogramm mit externen Veranstaltungen
-(Meisterschaften, Americaine, Einzelcup etc.) zu bereichern.
+Die Unterverbände haben mindestens jährlich ein Jahresprogramm bestehend aus mehreren Unterverbandsmeisterschaften zu organisieren, das als Grundlage für den Auf- und Abstieg (gemäss Artikel 23 Sportreglement) dient. Darüber hinaus ist es den Unterverbänden freigestellt, das sportliche Tätigkeitsprogramm mit externen Veranstaltungen (Meisterschaften, Americaine, Einzelcup etc.) zu bereichern.
 
 ### Artikel 69 Das sportliche Tätigkeitsprogramm des SFKV-Zentralverbandes
 
-Das sportliche Tätigkeitsprogramm des SFKV-Zentralverbandes umfasst
-unter Vorbehalt Artikel 71 folgende Anlässe, die jährlich zur Austragung
-gelangen:
-
-- Die Schweizermeisterschaft mit Einzel- und Klubkonkurrenz
-
-- der Kantonewettkampf als organisatorischer Bestandteil der
-  Schweizermeisterschaft
-
-- der schweizerische Unterverbandsmannschafts-Wettkampf
-
-- die schweizerische Seniorinnen- und Senioren-Meisterschaft
-
-- der Schweizer Klubcup
-
-- der schweizerische Einzelcup
-
+Das sportliche Tätigkeitsprogramm des SFKV-Zentralverbandes umfasst unter Vorbehalt Artikel 71 folgende Anlässe, die jährlich zur Austragung gelangen:  
+- Die Schweizermeisterschaft mit Einzel- und Klubkonkurrenz  
+- der Kantonewettkampf als organisatorischer Bestandteil der Schweizermeisterschaft  
+- der schweizerische Unterverbandsmannschafts-Wettkampf  
+- die schweizerische Seniorinnen- und Senioren-Meisterschaft  
+- der Schweizer Klubcup  
+- der schweizerische Einzelcup  
 - die SFKV organisiert Kurse für Instruktoren
 
 Grund- und Weiterbildungskurse für Kegler werden durch die Unterverbände
@@ -624,28 +511,17 @@ organisiert
 
 ### Artikel 70 Übernahme von Schweizerischen Anlässen durch Unterverbände und Kantonalvebände bzw. Organisation von schweizerischen Anlässen durch den ZV
 
-Die Schweizer Einzel- und Klubmeisterschaft (inkl. Kantonewettkampf),
-der Schweizerische Unterverbandsmannschafts-Wettkampf und die
-Schweizerische Seniorinnen- und Senioren-Meisterschaft, werden jeweils
-an der SFKV Delegiertenversammlung Unterverbänden oder Kantonalverbänden
-zur Durchführung übertragen.
+Die Schweizer Einzel- und Klubmeisterschaft (inkl. Kantonewettkampf), der Schweizerische Unterverbandsmannschafts-Wettkampf und die Schweizerische Seniorinnen- und Senioren-Meisterschaft, werden jeweils an der SFKV Delegiertenversammlung Unterverbänden oder Kantonalverbänden zur Durchführung übertragen.
 
-Wird kein Organisator für diese schweizerischen Anlässe gefunden, findet
-der entsprechende Anlass nicht statt.
+Wird kein Organisator für diese schweizerischen Anlässe gefunden, findet der entsprechende Anlass nicht statt.
 
-Die Organisation des Schweizer Klubcup und des schweizerischen
-Einzelcups obliegt dem Zentralvortand.
+Die Organisation des Schweizer Klubcup und des schweizerischen Einzelcups obliegt dem Zentralvortand.
 
-Alle schweizerischen Anlässe gelangen unter dem Patronat des
-Zentralverbandes zur Austragung. Der Zentralvorstand übt die
-Oberaufsicht aus.
+Alle schweizerischen Anlässe gelangen unter dem Patronat des Zentralverbandes zur Austragung. Der Zentralvorstand übt die Oberaufsicht aus.
 
 ### Artikel 71 Anleitung betreffend finanziellen Verbindlichkeiten bei Übernahme eines schweizerischen Anlasses 
 
-Die finanziellen Verbindlichkeiten zwischen den Organisatoren von
-schweizerischen Anlässen und dem Zentralverband SFKV werden, gemäss
-Artikel 57, von der SFKV Delegiertenversammlung festgesetzt und durch
-den Zentralvorstand in einer verbindlichen Anleitung zusammengefasst.
+Die finanziellen Verbindlichkeiten zwischen den Organisatoren von schweizerischen Anlässen und dem Zentralverband SFKV werden, gemäss Artikel 57, von der SFKV Delegiertenversammlung festgesetzt und durch den Zentralvorstand in einer verbindlichen Anleitung zusammengefasst.
 
 ---
 
@@ -653,16 +529,11 @@ den Zentralvorstand in einer verbindlichen Anleitung zusammengefasst.
 
 ### Artikel 72 Bestimmungen
 
-Die SFKV verfügt über eine notariell beglaubigte Datenschutzerklärung
-vom 12.10.2018.
+Die SFKV verfügt über eine notariell beglaubigte Datenschutzerklärung vom 12.10.2018.
 
-Die Bestimmungen zur Datenschutzerklärung sind auf der Lizenzbestätigung
-aller SFKV-Mitglieder einzusehen. Persönliche Daten von Mitgliedern
-werden für Ranglisten sportlicher Anlässe und Mitgliederlisten
-verwendet.
+Die Bestimmungen zur Datenschutzerklärung sind auf der Lizenzbestätigung aller SFKV-Mitglieder einzusehen. Persönliche Daten von Mitgliedern werden für Ranglisten sportlicher Anlässe und Mitgliederlisten verwendet.
 
-Werden diese Datenschutzbestimmungen durch ein Mitglied nicht
-akzeptiert, kann keine SFKV-Lizenz ausgestellt werden.
+Werden diese Datenschutzbestimmungen durch ein Mitglied nicht akzeptiert, kann keine SFKV-Lizenz ausgestellt werden.
 
 ---
 
@@ -670,16 +541,9 @@ akzeptiert, kann keine SFKV-Lizenz ausgestellt werden.
 
 ### Artikel 73 Statutenänderungen, Teil- oder Totalrevisionen
 
-Statutenänderungen, eine Teil- oder Totalrevision, kann mit
-2/3-Stimmenmehrheit der zurzeit der Abstimmung anwesenden Delegierten
-auf Antrag der hiezu gemäss Artikel 33 berechtigten Organe, von der
-SFKV-DV beschlossen werden.
+Statutenänderungen, eine Teil- oder Totalrevision, kann mit 2/3-Stimmenmehrheit der zurzeit der Abstimmung anwesenden Delegierten auf Antrag der hiezu gemäss Artikel 33 berechtigten Organe, von der SFKV-DV beschlossen werden.
 
-Ein Antrag auf Statuten-Revision bzw. auf Statuten-Änderung muss innert
-statutarischer Frist (siehe Artikel 32) eingereicht werden. Ein
-Dringlichkeitsantrag, der eine Statuten-Änderung oder Statuten-Revision
-verlangt oder durch dessen Annahme eine Revision der Statuten notwendig
-würde, kann nicht gestellt werden.
+Ein Antrag auf Statuten-Revision bzw. auf Statuten-Änderung muss innert statutarischer Frist (siehe Artikel 32) eingereicht werden. Ein Dringlichkeitsantrag, der eine Statuten-Änderung oder Statuten-Revision verlangt oder durch dessen Annahme eine Revision der Statuten notwendig würde, kann nicht gestellt werden.
 
 ---
 
@@ -687,31 +551,15 @@ würde, kann nicht gestellt werden.
 
 ### Artikel 74 Zuständigkeit für Beschlussfassung, Voraussetzungen für einen rechtsgültigen Beschluss
 
-Die Auflösung der Schweizerischen Freien Keglervereinigung kann nur auf
-Grund eines fristgemäss eingereichten Antrages durch die ordentliche
-oder ausserordentliche SFKV Delegiertenversammlung beschlossen werden.
-Solange ein Drittel, der zur Zeit der Abstimmung anwesenden Delegierten
-den Fortbestand der SFKV verlangt, kann diese nicht aufgelöst werden.
+Die Auflösung der Schweizerischen Freien Keglervereinigung kann nur auf Grund eines fristgemäss eingereichten Antrages durch die ordentliche oder ausserordentliche SFKV Delegiertenversammlung beschlossen werden. Solange ein Drittel, der zur Zeit der Abstimmung anwesenden Delegierten den Fortbestand der SFKV verlangt, kann diese nicht aufgelöst werden.
 
 ## Artikel 75 Verwendung des Barvermögens bei Verbandsauflösung, Garantien für das Kranzkarten-Geschäft
 
-Im Falle einer Auflösung der SFKV entscheidet die Delegiertenversammlung
-über die Verwendung des Verbandsvermögens in der Zentralkasse, wobei
-dieses einem wohltätigen Zweck zugeführt werden muss. Eine Barauszahlung
-an die Mitglieder sowie an die Unterverbände und Klubs kann nicht
-beschlossen werden.
+Im Falle einer Auflösung der SFKV entscheidet die Delegiertenversammlung über die Verwendung des Verbandsvermögens in der Zentralkasse, wobei dieses einem wohltätigen Zweck zugeführt werden muss. Eine Barauszahlung an die Mitglieder sowie an die Unterverbände und Klubs kann nicht beschlossen werden.
 
-Im Ereignisfalle hat der Zentralvorstand Massnahmen zu treffen, dass die
-Entscheidungsbestimmungen für die SFKV-Kranzkarten, auch nach der
-Auflösung der SFKV, bis zum Verfalltermin der jüngsten Ausgaben intakt
-bleiben.
+Im Ereignisfalle hat der Zentralvorstand Massnahmen zu treffen, dass die Entscheidungsbestimmungen für die SFKV-Kranzkarten, auch nach der Auflösung der SFKV, bis zum Verfalltermin der jüngsten Ausgaben intakt bleiben.
 
-Die Geschäfts-Aktivitäten und die Verwaltung des
-Kranzkarten-Deckungskapitals sind einer mit ausreichenden Garantien
-ausgestatteten Treuhandstelle zu übertragen. Der Verwendungszweck des
-verbleibenden Kapitals aus dem Kranzkarten-Fonds ist von der
-Delegiertenversammlung, welche die Auflösung der SFKV erwirkt, zu
-beschliessen.
+Die Geschäfts-Aktivitäten und die Verwaltung des Kranzkarten-Deckungskapitals sind einer mit ausreichenden Garantien ausgestatteten Treuhandstelle zu übertragen. Der Verwendungszweck des verbleibenden Kapitals aus dem Kranzkarten-Fonds ist von der Delegiertenversammlung, welche die Auflösung der SFKV erwirkt, zu beschliessen.
 
 ---
 
@@ -719,11 +567,6 @@ beschliessen.
 
 ### Artikel 76 Inkraftsetzung der Statuten 
 
-Diese Statuten wurden mit ihrer Annahme durch die Delegiertenversammlung
-vom 6. März 1966 in Kraft gesetzt und durch die Delegiertenversammlungen
-vom 6. März 1982, 12. April 2008 sowie vom 24. März 2013 revidiert. Sie
-treten nach der Genehmigung durch die SFKV Delegiertenversammlung am
-1.1. des folgenden Jahres in Kraft.
+Diese Statuten wurden mit ihrer Annahme durch die Delegiertenversammlung vom 6. März 1966 in Kraft gesetzt und durch die Delegiertenversammlungen vom 6. März 1982, 12. April 2008 sowie vom 24. März 2013 revidiert. Sie treten nach der Genehmigung durch die SFKV Delegiertenversammlung am 1.1. des folgenden Jahres in Kraft.
 
-In allen Belangen, für welche die vorstehenden Statuten keine
-Vorschriften erlassen, gelangen die Bestimmungen des ZGB zur Anwendung.
+In allen Belangen, für welche die vorstehenden Statuten keine Vorschriften erlassen, gelangen die Bestimmungen des ZGB zur Anwendung.
