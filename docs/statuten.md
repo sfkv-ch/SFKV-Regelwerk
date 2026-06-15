@@ -45,10 +45,9 @@ Unterverbände, die sich seit Bestehen der SFKV oder im Verlaufe der Entwicklung
 
 ### Artikel 7 Voraussetzungen für die Gründung von neuen Unterverbänden
 
-Die Gründung von neuen Unterverbänden erfolgt auf Initiative von Einzelmitgliedern und Klubs, die in einem Kanton domiziliert sind, in dem noch kein SFKV-Unterverband existiert. Als Voraussetzung für die Gründung eines neuen Unterverbandes gelten:  
- - Ein Mitgliederbestand von mindestens 50 Keglern (SFKV-Mitglieder), die eine Verbandsgründung befürworten und ein schriftliches Gesuch an den Zentralvorstand zuhanden der Delegiertenversammlung SFKV, unter Beilage des Mitgliederverzeichnisses der Befürworter, des Protokolls der Gründungsversammlung sowie der genehmigten Statuten stellen.
+Die Gründung von neuen Unterverbänden erfolgt auf Initiative von Einzelmitgliedern und Klubs, die in einem Kanton domiziliert sind, in dem noch kein SFKV-Unterverband existiert. Als Voraussetzung für die Gründung eines neuen Unterverbandes gelten: Ein Mitgliederbestand von mindestens 50 Keglern (SFKV-Mitglieder), die eine Verbandsgründung befürworten und ein schriftliches Gesuch an den Zentralvorstand zuhanden der Delegiertenversammlung SFKV, unter Beilage des Mitgliederverzeichnisses der Befürworter, des Protokolls der Gründungsversammlung sowie der genehmigten Statuten stellen.
 
-- Der Austritt aus dem Unterverband, der das Gebiet des neuen Unterverbandes bis zu dessen Gründung erfasst hatte, ist an der vorhergehenden Jahres-Hauptversammlung des betroffenen Unterverbandes zu bewerkstelligen und von diesem zu akzeptieren.
+Der Austritt aus dem Unterverband, der das Gebiet des neuen Unterverbandes bis zu dessen Gründung erfasst hatte, ist an der vorhergehenden Jahres-Hauptversammlung des betroffenen Unterverbandes zu bewerkstelligen und von diesem zu akzeptieren.
 
 ### Artikel 8 Publikationen von Anträgen für Unterverbands-Neugründungen, Rekursmöglichkeiten und Rekursfrist
 
@@ -184,30 +183,22 @@ Ausgetretene und ausgeschlossene SFKV-Mitglieder verlieren vom Tage des Austritt
 
 ### Artikel 27 Die Organe des SFKV-Zentralverbandes
 
-1)  Delegiertenversammlung
-
-2)  Zentralvorstand
-
-3)  Erweiterte Zentralvorstands-Sitzung
-
-4)  Rechnungsprüfungs-Kommission
+1)  Delegiertenversammlung  
+2)  Zentralvorstand  
+3)  Erweiterte Zentralvorstands-Sitzung  
+4)  Rechnungsprüfungs-Kommission  
 
 ### Artikel 28 Die Organe der SFKV-Unterverbände
 
-1)  Generalversammlung (oder Delegiertenversammlung)
-
-2)  Klub-Delegiertenversammlung oder Klubpräsidentenversammlung
-
-3)  Unterverbands-Vorstand
-
+1)  Generalversammlung (oder Delegiertenversammlung)  
+2)  Klub-Delegiertenversammlung oder Klubpräsidentenversammlung  
+3)  Unterverbands-Vorstand  
 4)  Rechnungsrevisoren
 
 ### Artikel 29 Die Organe der SFKV-Kantonalverbände
 
-1)  Delegiertenversammlung
-
-2)  Kantonalvorstand
-
+1)  Delegiertenversammlung  
+2)  Kantonalvorstand  
 3)  Rechnungsrevisoren
 
 ---
@@ -216,194 +207,99 @@ Ausgetretene und ausgeschlossene SFKV-Mitglieder verlieren vom Tage des Austritt
 
 ### Artikel 30 Bedeutung, Zusammensetzung, Stimmrecht, Berechnung der Delegiertenzahl der Unterverbände
 
-Die SFKV Delegiertenversammlung ist oberstes Organ des
-SFKV-Zentralverbandes. Sie setzt sich zusammen aus: Dem Zentralvorstand,
-den SFKV-Ehrenmitgliedern, den Delegierten der Unterverbände und den
-Mitgliedern der SFKV- Rechnungsprüfungs-Kommission.
+Die SFKV Delegiertenversammlung ist oberstes Organ des SFKV-Zentralverbandes. Sie setzt sich zusammen aus: Dem Zentralvorstand, den SFKV-Ehrenmitgliedern, den Delegierten der Unterverbände und den Mitgliedern der SFKV- Rechnungsprüfungs-Kommission.
 
-Jeder anwesende Delegierte ist stimmberechtigt, hat aber nur eine
-Stimme.
+Jeder anwesende Delegierte ist stimmberechtigt, hat aber nur eine Stimme.
 
-Jeder Unterverband ist abhängig von seiner Mitgliederzahl berechtigt,
-nachfolgende Anzahl Delegierte abzuordnen. (massgebend sind die
-verrechneten Lizenzen des verflossenen Jahres)
+Jeder Unterverband ist abhängig von seiner Mitgliederzahl berechtigt, nachfolgende Anzahl Delegierte abzuordnen. (massgebend sind die verrechneten Lizenzen des verflossenen Jahres)
 
-Mitgliederzahl Delegierte
-
-001 – 050 = 3 Delegierte
-
-051 – 100 = 4 Delegierte
-
-101 – 150 = 5 Delegierte
-
-151 – 200 = 6 Delegierte
-
+Mitgliederzahl Delegierte  
+001 – 050 = 3 Delegierte  
+051 – 100 = 4 Delegierte  
+101 – 150 = 5 Delegierte  
+151 – 200 = 6 Delegierte  
 usw.
 
 ### Artikel 31 Allgemeine organisatorische Aspekte und Grundsatzbestimmungen
 
-Die ordentliche Delegiertenversammlung findet alljährlich im ersten
-Quartal des Vereinsjahres statt. Wird an der Delegiertenversammlung kein
-Organisator für die Durchführung der nächsten Delegiertenversammlung
-gefunden, kann der Zentralvorstand in eigener Instanz entscheiden und an
-interessierte Unterverbände vergeben.
+Die ordentliche Delegiertenversammlung findet alljährlich im ersten Quartal des Vereinsjahres statt. Wird an der Delegiertenversammlung kein Organisator für die Durchführung der nächsten Delegiertenversammlung gefunden, kann der Zentralvorstand in eigener Instanz entscheiden und an interessierte Unterverbände vergeben.
 
-Sie behandelt jeweils das verflossene Vereinsjahr und stellt die Weichen
-für die Zukunft.
+Sie behandelt jeweils das verflossene Vereinsjahr und stellt die Weichen für die Zukunft.
 
-Das Datum der ordentlichen SFKV Delegiertenversammlung wird durch den
-Zentralvorstand 45 Tage vorher auf der SFKV-Homepage publiziert. Die
-Bestimmung des Tagungsortes liegt in der Kompetenz des Unterverbandes,
-dem die ordentliche Delegiertenversammlung an der vorhergehenden DV zur
-Durchführung übertragen wurde. Die organisatorischen Aspekte werden
-zwischen dem Zentralvorstand und dem organisierenden Unterverband
-vereinbart.
+Das Datum der ordentlichen SFKV Delegiertenversammlung wird durch den Zentralvorstand 45 Tage vorher auf der SFKV-Homepage publiziert. Die Bestimmung des Tagungsortes liegt in der Kompetenz des Unterverbandes, dem die ordentliche Delegiertenversammlung an der vorhergehenden DV zur Durchführung übertragen wurde. Die organisatorischen Aspekte werden zwischen dem Zentralvorstand und dem organisierenden Unterverband vereinbart.
 
 ### Artikel 32 Fristen zur Einreichung ordentlicher Anträge
 
-Anträge zuhanden der ordentlichen SFKV Delegiertenversammlung sind
-mindestens ~~30~~ 60 Tage vorher, mit entsprechender Begründung,
-schriftlich an dem Zentralpräsidenten einzureichen. Die Antragsfrist ist
-durch den Zentralvorstand auf der SFKV-Homepage zu publizieren.
+Anträge zuhanden der ordentlichen SFKV Delegiertenversammlung sind mindestens 60 Tage vorher, mit entsprechender Begründung, schriftlich an dem Zentralpräsidenten einzureichen. Die Antragsfrist ist durch den Zentralvorstand auf der SFKV-Homepage zu publizieren.
 
 ### Artikel 33 Antragsberechtigte Instanzen, Ausnahmebestimmungen für den Zentralvorstand, Vorgehen seitens der Unterverbände
 
-Zur Stellung von fristgemäss eingereichten Anträgen sind der
-Zentralvorstand, die Ehrenmitglieder der SFKV, die Mitglieder der
-Rechnungsprüfungs-Kommission des SFKV-Zentralverbandes, die
-Unterverbände und die Kantonalverbände berechtigt.
+Zur Stellung von fristgemäss eingereichten Anträgen sind der Zentralvorstand, die Ehrenmitglieder der SFKV, die Mitglieder der Rechnungsprüfungs-Kommission des SFKV-Zentralverbandes, die Unterverbände und die Kantonalverbände berechtigt.
 
-Als einzige Instanz ist der Zentralvorstand nicht an die Antragsfrist
-gebunden. Anträge, die seitens der Unterverbände oder Kantonalverbände
-eingereicht werden, müssen als protokollierte Beschlüsse der
-Generalversammlung an die SFKV Delegiertenversammlung gelangen. Sind
-Unterverbände in einem Kantonalverband zusammengeschlossen, gilt als
-Voraussetzung für die Einreichung eines Antrages, dass dieser die
-kantonale DV passiert hat.
+Als einzige Instanz ist der Zentralvorstand nicht an die Antragsfrist gebunden. Anträge, die seitens der Unterverbände oder Kantonalverbände eingereicht werden, müssen als protokollierte Beschlüsse der Generalversammlung an die SFKV Delegiertenversammlung gelangen. Sind Unterverbände in einem Kantonalverband zusammengeschlossen, gilt als Voraussetzung für die Einreichung eines Antrages, dass dieser die kantonale DV passiert hat.
 
 ### Artikel 34 Vorgehen bei Abstimmungen, Normen für die Inkraftsetzung von DV-Beschlüssen
 
-Die Delegiertenversammlung entscheidet jeweils, ob sie offene oder
-geheime Abstimmung will. Sie fasst ihre Beschlüsse mit einfachem
-Stimmenmehr, ausgenommen bei Entscheiden gemäss Artikel 22, 73, und 74.
-Der Vorsitzende beteiligt sich grundsätzlich nur an geheimen
-Abstimmungen. Sowohl bei offenen wie an geheimen Abstimmungen steht ihm
-der Stichentscheid zu, wenn eine Abstimmung einen Gleichstand ergibt.
+Die Delegiertenversammlung entscheidet jeweils, ob sie offene oder geheime Abstimmung will. Sie fasst ihre Beschlüsse mit einfachem Stimmenmehr, ausgenommen bei Entscheiden gemäss Artikel 22, 73, und 74. Der Vorsitzende beteiligt sich grundsätzlich nur an geheimen Abstimmungen. Sowohl bei offenen wie an geheimen Abstimmungen steht ihm der Stichentscheid zu, wenn eine Abstimmung einen Gleichstand ergibt.
 
-Die anlässlich der ordentlichen SFKV Delegiertenversammlung gefassten
-Beschlüsse und eingeführten Neuerungen treten in der Regel erst im
-folgenden Jahr in Kraft. In Ausnahmefällen, d.h. wenn die Abwicklung des
-sportlichen und administrativen Betriebes im laufenden Jahr auf
-Zentralverbandsebene und in den Unterverbänden nicht direkt beeinflusst
-wird, können Beschlüsse sofort in Kraft gesetzt werden. Voraussetzung
-ist, dass in den Anträgen diesbezügliche Hinweise enthalten sind.
+Die anlässlich der ordentlichen SFKV Delegiertenversammlung gefassten Beschlüsse und eingeführten Neuerungen treten in der Regel erst im folgenden Jahr in Kraft. In Ausnahmefällen, d.h. wenn die Abwicklung des sportlichen und administrativen Betriebes im laufenden Jahr auf Zentralverbandsebene und in den Unterverbänden nicht direkt beeinflusst wird, können Beschlüsse sofort in Kraft gesetzt werden. Voraussetzung ist, dass in den Anträgen diesbezügliche Hinweise enthalten sind.
 
 ### Artikel 35 Zu behandelnde Sachgeschäfte an der ordentlichen SFKV DV
 
 Die Delegiertenversammlung erledigt die folgenden ordentlichen Geschäfte
 
-1\. Begrüssung
-
-2\. Appell und Wahl der Stimmenzähler
-
-3\. Genehmigung des Protokolls
-
-4\. Genehmigung der Jahresberichte
-
-a\) des Zentralpräsidenten
-
-b\) des Zentralsportleiters
-
-5\. Genehmigung der Jahresrechnung
-
-a\) der Zentralkasse
-
-b\) der Kranzkartenkasse
-
-c\) Rechnungsprüfungs-Kommission
-
-6\. Entlastung des Zentralvorstandes
-
-7\. Wahlen
-
-a\) des Zentralpräsidenten
-
-b\) des Zentralkassiers
-
-c\) des Kranzkarten-Kassiers
-
-d\) der übrigen ZV-Mitglieder
-
-e\) der Rechnungsprüfungs-Kommission
-
-8\. Anträge
-
-a\) des Zentralvorstandes
-
-b\) der Ehrenmitglieder und der Rechnungsprüfungskommission
-
-c\) der Unterverbände und Kantonalverbände
-
-9\. Beschlussfassung in finanziellen Belangen, die gemäss Statuten einen
-DV Beschluss erfordern
-
-a\) Budget aktuelles Verbandsjahr
-
-b\) Einsatz Unterverbands-Mannschafts-Wettkampf
-
-10\. Festsetzung Jahresbeitrag
-
-11\. Festsetzung Tätigkeitsprogramm
-
-12\. Vergebung der schweizerischen, sportlichen Anlässe für maximal 2
-Jahre
-
-13\. Bestimmung des durchführenden Unterverbandes der SFKV
-Delegiertenversammlung für maximal 2 Jahre
-
-14\. Ehrungen
-
-15\. Verschiedenes
+1. Begrüssung  
+2. Appell und Wahl der Stimmenzähler  
+3. Genehmigung des Protokolls  
+4. Genehmigung der Jahresberichte  
+    a) des Zentralpräsidenten  
+    b) des Zentralsportleiters  
+5. Genehmigung der Jahresrechnung  
+    a) der Zentralkasse  
+    b) der Kranzkartenkasse  
+    c) Rechnungsprüfungs-Kommission  
+6. Entlastung des Zentralvorstandes  
+7. Wahlen  
+    a) des Zentralpräsidenten  
+    b) des Zentralkassiers  
+    c) des Kranzkarten-Kassiers  
+    d) der übrigen ZV-Mitglieder  
+    e) der Rechnungsprüfungs-Kommission  
+8. Anträge  
+    a) des Zentralvorstandes  
+    b) der Ehrenmitglieder und der Rechnungsprüfungskommission  
+    c) der Unterverbände und Kantonalverbände  
+9. Beschlussfassung in finanziellen Belangen, die gemäss Statuten einen DV Beschluss erfordern  
+    a) Budget aktuelles Verbandsjahr  
+    b) Einsatz Unterverbands-Mannschafts-Wettkampf  
+10. Festsetzung Jahresbeitrag  
+11. Festsetzung Tätigkeitsprogramm  
+12. Vergebung der schweizerischen, sportlichen Anlässe für maximal 2 Jahre  
+13. Bestimmung des durchführenden Unterverbandes der SFKV Delegiertenversammlung für maximal 2 Jahre  
+14. Ehrungen  
+15. Verschiedenes  
 
 ### Artikel 36 Versammlungsleitung und Vorsitz an der ordentlichen SFKV DV
 
-Die Leitung der ordentlichen SFKV Delegiertenversammlung obliegt dem
-Zentralvorstand; den Vorsitz führt der Zentralpräsident bzw. der
-Vizepräsident, wenn der Zentralpräsident an der Teilnahme verhindert
-ist. In besonderen Fällen kann, auf Antrag des Zentralvorstandes oder
-auf Verlangen aus der Versammlungs-Mitte, für die Abwicklung einzelner
-Traktanden bzw. der gesamten Traktandenliste, ein Tagespräsident
-bestimmt werden. Für die Wahl eines Tagespräsidenten ist das absolute
-Mehr notwendig.
+Die Leitung der ordentlichen SFKV Delegiertenversammlung obliegt dem Zentralvorstand; den Vorsitz führt der Zentralpräsident bzw. der Vizepräsident, wenn der Zentralpräsident an der Teilnahme verhindert ist. In besonderen Fällen kann, auf Antrag des Zentralvorstandes oder auf Verlangen aus der Versammlungs-Mitte, für die Abwicklung einzelner Traktanden bzw. der gesamten Traktandenliste, ein Tagespräsident bestimmt werden. Für die Wahl eines Tagespräsidenten ist das absolute Mehr notwendig.
 
 ### Artikel 37 Ausserordentliche Delegiertenversammlung
 
-Ausserordentliche Delegiertenversammlungen werden einberufen:
-
-- wenn es der Zentralvorstand als erforderlich erachtet
-
-- wenn ein Zehntel der Mitglieder dies schriftlich verlangt
+Ausserordentliche Delegiertenversammlungen werden einberufen:  
+a) wenn es der Zentralvorstand als erforderlich erachtet  
+b) wenn ein Zehntel der Mitglieder dies schriftlich verlangt
 
 ### Artikel 38 Termingemässes Vorgehen bei der Einberufung einer ausserordentlichen SFKV-DV
 
-Eine ausserordentliche Delegiertenversammlung hat innert 8 Wochen, nach
-Eingang des schriftlichen Begehrens beim
+Eine ausserordentliche Delegiertenversammlung hat innert 8 Wochen, nach Eingang des schriftlichen Begehrens beim Zentralvorstand, stattzufinden. Ort und Termin werden vom Zentralvorstand festgelegt.
 
-Zentralvorstand, stattzufinden. Ort und Termin werden vom
-Zentralvorstand festgelegt.
-
-Die Einladungen mit sachbezüglicher Begründung werden durch den
-Zentralvorstand 3 Wochen vor dem Versammlungsdatum an alle
-teilnahmeberechtigten Instanzen (gemäss Artikel 30) verschickt.
+Die Einladungen mit sachbezüglicher Begründung werden durch den Zentralvorstand 3 Wochen vor dem Versammlungsdatum an alle teilnahmeberechtigten Instanzen (gemäss Artikel 30) verschickt.
 
 ### Artikel 39 Zu behandelnde Geschäfte an einer ausserordentlichen SFKV-DV
 
-Eine ausserordentliche Delegiertenversammlung behandelt nur die
-Sachgeschäfte, welche die Einberufung der ausserordentlichen
-Delegiertenversammlung begründet haben.
+Eine ausserordentliche Delegiertenversammlung behandelt nur die Sachgeschäfte, welche die Einberufung der ausserordentlichen Delegiertenversammlung begründet haben.
 
-Ein Beschluss entgegen dieser Bestimmung ist selbst während der
-Versammlung nicht möglich.
+Ein Beschluss entgegen dieser Bestimmung ist selbst während der Versammlung nicht möglich.
 
 ---
 
