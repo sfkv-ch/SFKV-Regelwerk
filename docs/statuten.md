@@ -166,14 +166,9 @@ Mitgliederaufnahmepraxis ist Sache jedes einzelnen Unterverbandes. Eine
 Beitrittserklärung muss aber in jedem Fall mittels Unterschrift des
 beitretenden Mitgliedes bekundet werden.
 
-a\) aktive Mitglieder
+a\) aktive Mitglieder - Als aktive Mitglieder mit Lizenz gelten alle Mitglieder ab erfülltem 14. Altersjahr
 
-Als aktive Mitglieder mit Lizenz gelten alle Mitglieder ab erfülltem 14.
-Altersjahr
-
-b\) Passivmitglieder
-
-Passivmitglieder haben kein Stimm- und Wahlrecht.
+b\) Passivmitglieder - Passivmitglieder haben kein Stimm- und Wahlrecht.
 
 ### Artikel 13 Klub
 
