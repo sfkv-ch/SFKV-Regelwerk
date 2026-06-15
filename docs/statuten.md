@@ -37,7 +37,7 @@ Der Zentralvorstand SFKV hält die Gebiete auf einer Karte fest.
 
 Sofern zwingend erscheinende Gründe vorliegen (hoher Mitgliederbestand oder grosse Distanzen, die den Sportbetrieb übermässig stark belasten) kann die Aufteilung eines Unterverbandes in zwei oder mehreren Unterverbänden innerhalb eines Kantons an der Jahres-Hauptversammlung mit einer 2/3-Stimmen-Mehrheit erwirkt werden. Die Grenzbereinigung muss in solchen Fällen im Auftrag zur Aufteilung enthalten sein.
 
-So aufgeteilte Verbände können sich, im Interesse einer wirksamen Zusammenarbeit in administrativen Belangen und auf sportlichen Gebieten, zu Kantonalverbänden vereinen. Die gegenseitige Abhängigkeit (Autonomitätsgrad) und die Bereinigung der Grenzen sind in kantonalen Stauten zu regeln.
+So aufgeteilte Verbände können sich, im Interesse einer wirksamen Zusammenarbeit in administrativen Belangen und auf sportlichen Gebieten, zu Kantonalverbänden vereinen. Die gegenseitige Abhängigkeit (Autonomitätsgrad) und die Bereinigung der Grenzen sind in kantonalen Statuten zu regeln.
 
 ### Artikel 6 Autonome Unterverbände innerhalb eines Kantons
 
