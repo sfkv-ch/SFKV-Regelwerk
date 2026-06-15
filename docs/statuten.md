@@ -1,3 +1,9 @@
+---
+title: Statuten der Schweizerischen Freien Keglervereinigung (SFKV)
+shorttitle: Statuten
+description: Statuten der Schweizerischen Freien Keglervereinigung
+---
+
 # Statuten der Schweizerischen Freien Keglervereinigung (SFKV)
 
 ## I. Name, Sitz und Zweck
