@@ -4,7 +4,7 @@ shorttitle: Sportreglement
 description: Sportreglement der Schweizerischen Freien Keglervereinigung
 ---
 
-# Statuten der Schweizerischen Freien Keglervereinigung (SFKV)
+# Sportreglement der Schweizerischen Freien Keglervereinigung (SFKV)
 
 ## Allgemeine Bestimmungen
 
