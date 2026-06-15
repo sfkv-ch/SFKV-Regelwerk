@@ -4,27 +4,20 @@
 
 ### Artikel 1 Offizielle Namensbezeichnung und Gründungsjahr
 
-Unter dem Namen Schweizerische Freie Keglervereinigung (SFKV) besteht
-eine im Jahre 1952 gegründete Vereinigung im Sinne von Artikel 60 – 79
-ZGB, nachstehend auch als Verband bezeichnet. Sie ist konfessionell und
-politisch neutral.
+Unter dem Namen Schweizerische Freie Keglervereinigung (SFKV) besteht eine im Jahre 1952 gegründete Vereinigung im Sinne von Artikel 60 – 79 ZGB, nachstehend auch als Verband bezeichnet. Sie ist konfessionell und politisch neutral.
 
 ### Artikel 2 Sitz und Verbandsadresse
 
-Der Sitz und die Verbandsadresse sind am jeweiligen Wohnort des
-Präsidenten.
+Der Sitz und die Verbandsadresse sind am jeweiligen Wohnort des Präsidenten.
 
 ### Artikel 3 Sportlicher und gesellschaftlicher Vereinszweck
 
-Der Zweck des Vereins ist im Leitbild der Schweizerischen Freien
-Keglervereinigung SFKV festgehalten
+Der Zweck des Vereins ist im Leitbild der Schweizerischen Freien Keglervereinigung SFKV festgehalten
 
-die Betreuung, Förderung und Verbreitung des Kegelsportes in der Schweiz
-als Breiten- und Leistungssport.
-
-die Wahrung der Interessen und Rechte der Mitglieder im Allgemeinen
-
-die Pflege kameradschaftlicher Beziehungen
+a) die Betreuung, Förderung und Verbreitung des Kegelsportes in der Schweiz
+als Breiten- und Leistungssport  
+b) die Wahrung der Interessen und Rechte der Mitglieder im Allgemeinen  
+c) die Pflege kameradschaftlicher Beziehungen  
 
 ### Artikel 3.1. Definition Vereinsjahr
 
@@ -36,122 +29,52 @@ Das Vereinsjahr beginnt am 01. Januar und dauert ein Kalenderjahr
 
 ### Artikel 4 Gebietserfassung generell
 
-Der Zentralverband umfasst das gesamte Gebiet der Schweiz und setzt sich
-aus Unterverbänden zusammen. Die Grenzen der Unterverbandsgebiete werden
-durch den Zentralvorstand SFKV in Zusammenarbeit mit den betroffenen
-Unterverbänden festgelegt.
+Der Zentralverband umfasst das gesamte Gebiet der Schweiz und setzt sich aus Unterverbänden zusammen. Die Grenzen der Unterverbandsgebiete werden durch den Zentralvorstand SFKV in Zusammenarbeit mit den betroffenen Unterverbänden festgelegt.
 
 Der Zentralvorstand SFKV hält die Gebiete auf einer Karte fest.
 
 ### Artikel 5 Aufteilung von Unterverbänden; Zusammenschluss von Unterverbänden zu Kantonalverbänden
 
-Sofern zwingend erscheinende Gründe vorliegen (hoher Mitgliederbestand
-oder grosse Distanzen, die den Sportbetrieb übermässig stark belasten)
-kann die Aufteilung eines Unterverbandes in zwei oder mehreren
-Unterverbänden innerhalb eines Kantons an der Jahres-Hauptversammlung
-mit einer 2/3-Stimmen-Mehrheit erwirkt werden. Die Grenzbereinigung muss
-in solchen Fällen im Auftrag zur Aufteilung enthalten sein.
+Sofern zwingend erscheinende Gründe vorliegen (hoher Mitgliederbestand oder grosse Distanzen, die den Sportbetrieb übermässig stark belasten) kann die Aufteilung eines Unterverbandes in zwei oder mehreren Unterverbänden innerhalb eines Kantons an der Jahres-Hauptversammlung mit einer 2/3-Stimmen-Mehrheit erwirkt werden. Die Grenzbereinigung muss in solchen Fällen im Auftrag zur Aufteilung enthalten sein.
 
-So aufgeteilte Verbände können sich, im Interesse einer wirksamen
-Zusammenarbeit in administrativen Belangen und auf sportlichen Gebieten,
-zu Kantonalverbänden vereinen. Die gegenseitige Abhängigkeit
-(Autonomitätsgrad) und die Bereinigung der Grenzen sind in kantonalen
-Stauten zu regeln.
+So aufgeteilte Verbände können sich, im Interesse einer wirksamen Zusammenarbeit in administrativen Belangen und auf sportlichen Gebieten, zu Kantonalverbänden vereinen. Die gegenseitige Abhängigkeit (Autonomitätsgrad) und die Bereinigung der Grenzen sind in kantonalen Stauten zu regeln.
 
 ### Artikel 6 Autonome Unterverbände innerhalb eines Kantons
 
-Unterverbände, die sich seit Bestehen der SFKV oder im Verlaufe der
-Entwicklung des SFKV-Zentralverbandes innerhalb eines Kantons als
-autonome Verbände mit eigenem Namen etabliert haben, sind mit der
-Inkraftsetzung dieser Statuten verpflichtet, im Sinne von Artikel 4 die
-genauen Verbandsgrenzen festzulegen. Der Zusammenschluss zu einem
-Kantonalverband kann in diesen Kantonen nur erfolgen, wenn alle
-Unterverbände (2/3-Mehrheitsbeschluss UV Generalversammlung) dazu bereit
-sind.
+Unterverbände, die sich seit Bestehen der SFKV oder im Verlaufe der Entwicklung des SFKV-Zentralverbandes innerhalb eines Kantons als autonome Verbände mit eigenem Namen etabliert haben, sind mit der Inkraftsetzung dieser Statuten verpflichtet, im Sinne von Artikel 4 die genauen Verbandsgrenzen festzulegen. Der Zusammenschluss zu einem Kantonalverband kann in diesen Kantonen nur erfolgen, wenn alle Unterverbände (2/3-Mehrheitsbeschluss UV Generalversammlung) dazu bereit sind.
 
 ### Artikel 7 Voraussetzungen für die Gründung von neuen Unterverbänden
 
-Die Gründung von neuen Unterverbänden erfolgt auf Initiative von
-Einzelmitgliedern und Klubs, die in einem Kanton
+Die Gründung von neuen Unterverbänden erfolgt auf Initiative von Einzelmitgliedern und Klubs, die in einem Kanton domiziliert sind, in dem noch kein SFKV-Unterverband existiert. Als Voraussetzung für die Gründung eines neuen Unterverbandes gelten:  
+ - Ein Mitgliederbestand von mindestens 50 Keglern (SFKV-Mitglieder), die eine Verbandsgründung befürworten und ein schriftliches Gesuch an den Zentralvorstand zuhanden der Delegiertenversammlung SFKV, unter Beilage des Mitgliederverzeichnisses der Befürworter, des Protokolls der Gründungsversammlung sowie der genehmigten Statuten stellen.
 
-domiziliert sind, in dem noch kein SFKV-Unterverband existiert. Als
-Voraussetzung für die Gründung eines neuen
-
-Unterverbandes gelten: Ein Mitgliederbestand von mindestens 50 Keglern
-(SFKV-Mitglieder), die eine Verbandsgründung befürworten und ein
-schriftliches Gesuch an den Zentralvorstand zuhanden der
-Delegiertenversammlung SFKV, unter
-
-Beilage des Mitgliederverzeichnisses der Befürworter, des Protokolls der
-Gründungsversammlung sowie der genehmigten
-
-Statuten stellen.
-
-Der Austritt aus dem Unterverband, der das Gebiet des neuen
-Unterverbandes bis zu dessen Gründung erfasst hatte, ist an der
-vorhergehenden Jahres-Hauptversammlung des betroffenen Unterverbandes zu
-bewerkstelligen und von diesem zu
-
-akzeptieren.
+- Der Austritt aus dem Unterverband, der das Gebiet des neuen Unterverbandes bis zu dessen Gründung erfasst hatte, ist an der vorhergehenden Jahres-Hauptversammlung des betroffenen Unterverbandes zu bewerkstelligen und von diesem zu akzeptieren.
 
 ### Artikel 8 Publikationen von Anträgen für Unterverbands-Neugründungen, Rekursmöglichkeiten und Rekursfrist
 
-Anträge betreffend Gründung von neuen Unterverbänden werden auf der
-Homepage der SFKV publiziert. Allfällige Einsprachen sind mit
-schriftlicher Begründung innert 30 Tagen an den Zentralvorstand
-einzureichen. Der letztinstanzliche Entscheid liegt in der Kompetenz der
-Delegiertenversammlung SFKV, die insbesondere darüber befindet, ob die
-Voraussetzungen gemäss Artikel 7 erfüllt sind.
+Anträge betreffend Gründung von neuen Unterverbänden werden auf der Homepage der SFKV publiziert. Allfällige Einsprachen sind mit schriftlicher Begründung innert 30 Tagen an den Zentralvorstand einzureichen. Der letztinstanzliche Entscheid liegt in der Kompetenz der Delegiertenversammlung SFKV, die insbesondere darüber befindet, ob die Voraussetzungen gemäss Artikel 7 erfüllt sind.
 
 ### Artikel 9 Erfassbarkeit von Einzelkeglern und Klubs innerhalb des SFKV- Verbandsgebietes und im ausländischen *Grenzgebiet; mögliche Sonderregelungen*
 
-Für die Unterverbands-Zugehörigkeit gelten: Bei Klubmitgliedern der
-Standort der Heimbahn, die Einzelmitglieder können selber entscheiden,
-bei welchem Unterverband sie die Lizenz lösen möchten.
+Für die Unterverbands-Zugehörigkeit gelten: Bei Klubmitgliedern der Standort der Heimbahn, die Einzelmitglieder können selber entscheiden, bei welchem Unterverband sie die Lizenz lösen möchten.
 
-Ein Domizilwechsel eines Klubs in einen anderen Unterverband (Verlegung
-des Heimbahndomizils) kann nur auf schriftliches Gesuch hin, mit
-Einwilligung des Unterverbands-Vorstandes erfolgen. Im Gesuch sind die
-Beweggründe anzuführen. Rekursinstanz ist der Zentralvorstand; bei
-Kantonalverbänden erstinstanzlich der Kantonalvorstand.
+Ein Domizilwechsel eines Klubs in einen anderen Unterverband (Verlegung des Heimbahndomizils) kann nur auf schriftliches Gesuch hin, mit Einwilligung des Unterverbands-Vorstandes erfolgen. Im Gesuch sind die Beweggründe anzuführen. Rekursinstanz ist der Zentralvorstand; bei Kantonalverbänden erstinstanzlich der Kantonalvorstand.
 
-Die Unterverbände verlangen von sämtlichen Klubs die Bezeichnung der
-Heimbahn. Wechselt ein Kegler im Laufe des Sportjahres sein Domizil,
-bleibt er bis Ende Jahr Mitglied des bisherigen Unterverbandes. Bei
-Auflösung eines Klubs sind die betroffenen Kegler bis Ende des Jahres
-nur noch als Einzelkegler startberechtigt.
+Die Unterverbände verlangen von sämtlichen Klubs die Bezeichnung der Heimbahn. Wechselt ein Kegler im Laufe des Sportjahres sein Domizil, bleibt er bis Ende Jahr Mitglied des bisherigen Unterverbandes. Bei Auflösung eines Klubs sind die betroffenen Kegler bis Ende des Jahres nur noch als Einzelkegler startberechtigt.
 
-Unterverbände, deren Grenzen identisch sind mit den Landesgrenzen,
-erfassen sowohl die Einzelkegler wie die Klubs im ausländischen
-Grenzgebiet, die den Beitritt zur SFKV wünschen. Ebenso werden Klubs mit
-Domizil in einem Kanton ohne eigenen Unterverband entweder vom direkt
-angrenzenden oder von einem eventuell verkehrstechnisch günstiger
-liegenden Unterverband erfasst. Sind derartige Regelungen einmal intakt,
-können diese grundsätzlich nur bei einer Unterverbands-Gründung
-aufgehoben werden. Über Ausnahmen in speziellen Situationen, d.h. wenn
-eine besondere Entwicklung die Zuteilung dieser Klubs zu einem anderen
-Unterverband erfordert, entscheidet der Zentralvorstand.
+Unterverbände, deren Grenzen identisch sind mit den Landesgrenzen, erfassen sowohl die Einzelkegler wie die Klubs im ausländischen Grenzgebiet, die den Beitritt zur SFKV wünschen. Ebenso werden Klubs mit Domizil in einem Kanton ohne eigenen Unterverband entweder vom direkt angrenzenden oder von einem eventuell verkehrstechnisch günstiger liegenden Unterverband erfasst. Sind derartige Regelungen einmal intakt, können diese grundsätzlich nur bei einer Unterverbands-Gründung aufgehoben werden. Über Ausnahmen in speziellen Situationen, d.h. wenn eine besondere Entwicklung die Zuteilung dieser Klubs zu einem anderen Unterverband erfordert, entscheidet der Zentralvorstand.
 
 ### Artikel 10 Auflösung eines Unterverbandes auf dessen eigenen Wunsch oder durch Beschluss der SFKV Delegiertenversammlung
 
-Die Gründe, welche die Auflösung eines Unterverbandes zur Folge haben
-können und die Art des Vollzuges einer solchen Massnahme sind den
-Unterverbands-Statuten festzuhalten.
+Die Gründe, welche die Auflösung eines Unterverbandes zur Folge haben können und die Art des Vollzuges einer solchen Massnahme sind den Unterverbands-Statuten festzuhalten.
 
-Die Auflösung eines Unterverbandes kann durch Beschluss der
-Delegiertenversammlung SFKV erfolgen, wenn sich ein Unterverband
-wissentlich und fortgesetzt über die Statuten und Reglemente der SFKV
-hinwegsetzt oder offensichtlich nicht mehr existenzfähig ist. Das
-Absinken des Mitgliederbestandes unter die gemäss Artikel 7 geforderte
-Limite wird nicht als Grund für die Auflösung eines Unterverbandes
-gewertet, sofern die Existenzfähigkeit nachweisbar gewährleistet ist.
+Die Auflösung eines Unterverbandes kann durch Beschluss der Delegiertenversammlung SFKV erfolgen, wenn sich ein Unterverband wissentlich und fortgesetzt über die Statuten und Reglemente der SFKV hinwegsetzt oder offensichtlich nicht mehr existenzfähig ist.
+
+Das Absinken des Mitgliederbestandes unter die gemäss Artikel 7 geforderte Limite wird nicht als Grund für die Auflösung eines Unterverbandes gewertet, sofern die Existenzfähigkeit nachweisbar gewährleistet ist.
 
 ### Artikel 11 Fusion von SFKV Unterverbänden
 
-Eine Fusion zwischen zwei oder mehreren Unterverbänden bedarf der
-Zustimmung von zwei Dritteln der abgegebenen Stimmen der
-Unterverbandsmitglieder. Der Fusionsvertrag ist vor der Fusion dem
-Zentralvorstand zur Kenntnisnahme vorzulegen
+Eine Fusion zwischen zwei oder mehreren Unterverbänden bedarf der Zustimmung von zwei Dritteln der abgegebenen Stimmen der Unterverbandsmitglieder. Der Fusionsvertrag ist vor der Fusion dem Zentralvorstand zur Kenntnisnahme vorzulegen
 
 ---
 
