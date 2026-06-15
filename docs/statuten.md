@@ -82,47 +82,30 @@ Eine Fusion zwischen zwei oder mehreren Unterverbänden bedarf der Zustimmung vo
 
 ### Artikel 12 Mindestalter für einen SFKV-Beitritt; Mitglieder-Aufnahmepraxis
 
-Mitglieder SFKV können Frauen und Männer ab erfülltem 14. Altersjahr
-werden. Der Beitritt erfolgt durch Aufnahme als Einzelmitglied oder als
-Mitglied eines Klubs durch den zuständigen Unterverband. Die
-Mitgliederaufnahmepraxis ist Sache jedes einzelnen Unterverbandes. Eine
-Beitrittserklärung muss aber in jedem Fall mittels Unterschrift des
-beitretenden Mitgliedes bekundet werden.
+Mitglieder SFKV können Frauen und Männer ab erfülltem 14. Altersjahr werden. Der Beitritt erfolgt durch Aufnahme als Einzelmitglied oder als Mitglied eines Klubs durch den zuständigen Unterverband. Die Mitgliederaufnahmepraxis ist Sache jedes einzelnen Unterverbandes. Eine Beitrittserklärung muss aber in jedem Fall mittels Unterschrift des beitretenden Mitgliedes bekundet werden.
 
-a\) aktive Mitglieder - Als aktive Mitglieder mit Lizenz gelten alle Mitglieder ab erfülltem 14. Altersjahr
-
-b\) Passivmitglieder - Passivmitglieder haben kein Stimm- und Wahlrecht.
+a) aktive Mitglieder  
+    Als aktive Mitglieder mit Lizenz gelten alle Mitglieder ab erfülltem 14. Altersjahr
+    
+b) Passivmitglieder  
+    Passivmitglieder haben kein Stimm- und Wahlrecht
 
 ### Artikel 13 Klub
 
 Die möglichen Varianten für die Klub-Zusammensetzung und die Regelung
-bezüglich Transfer und/oder Ersatz von Keglern
-
-sind im Sportreglement festgehalten.
+bezüglich Transfer und/oder Ersatz von Keglern sind im Sportreglement festgehalten.
 
 ### Artikel 14 Die „SFKV-Lizenz“ – Voraussetzung für dessen Gültigkeit
 
-Als aktives SFKV-Mitglied gilt, wer im Besitz der SFKV-Lizenz ist. Die
-Form der Lizenz wird durch den Zentralvorstand SFKV bestimmt. Die
-SFKV-Lizenz ist maximal für ein Vereinsjahr gültig.
+Als aktives SFKV-Mitglied gilt, wer im Besitz der SFKV-Lizenz ist. Die Form der Lizenz wird durch den Zentralvorstand SFKV bestimmt. Die SFKV-Lizenz ist maximal für ein Vereinsjahr gültig.
 
 ### Artikel 15 Verpflichtung zur Anerkennung der Statuten und Reglemente
 
-Mit dem Beitritt zur SFKV verpflichtet sich das Mitglied zur Anerkennung
-der Statuten und Sportreglemente des SFKV-Zentralverbandes und des
-zuständigen Unterverbandes.
+Mit dem Beitritt zur SFKV verpflichtet sich das Mitglied zur Anerkennung der Statuten und Sportreglemente des SFKV-Zentralverbandes und des zuständigen Unterverbandes.
 
 ### Artikel 16 Das Recht der SFKV-Mitglieder zur Teilnahme an SFKV-Sportveranstaltungen, diesbezügliche Einschränkungen, der Anspruch auf Beistand und Ratschläge
 
-Die Mitglieder der SFKV sind berechtigt, an allen von der SFKV und deren
-Unterverbänden veranstalteten Anlässen teilzunehmen. Vorbehalten sind
-sportliche Anlässe, die speziell ausgeschrieben sind oder die eine
-Qualifikation gemäss Bestimmungen in den entsprechenden Sportreglementen
-voraussetzten sowie administrative Veranstaltungen, deren
-Teilnahmebedingungen in den Statuten festgelegt sind. Sie kommen
-ausserdem in den Genuss von Beistand und Ratschlägen in
-SFKV-Vereinsangelegenheiten seitens des zuständigen
-Unterverbands-Vorstandes oder des Zentralvorstandes.
+Die Mitglieder der SFKV sind berechtigt, an allen von der SFKV und deren Unterverbänden veranstalteten Anlässen teilzunehmen. Vorbehalten sind sportliche Anlässe, die speziell ausgeschrieben sind oder die eine Qualifikation gemäss Bestimmungen in den entsprechenden Sportreglementen voraussetzten sowie administrative Veranstaltungen, deren Teilnahmebedingungen in den Statuten festgelegt sind. Sie kommen ausserdem in den Genuss von Beistand und Ratschlägen in SFKV-Vereinsangelegenheiten seitens des zuständigen Unterverbands-Vorstandes oder des Zentralvorstandes.
 
 ### Artikel 17 Sonderregelungen für Seniorinnen und Senioren
 
@@ -130,88 +113,48 @@ Seniorin und Senior ist, wer im Vereinsjahr das 60. Altersjahr erreicht.
 
 ### Artikel 18 Ernennung von Ehrenmitgliedern, Voraussetzungen hierzu, Wahlakt und besondere Rechte der Ehrenmitglieder
 
-Personen, die sich um die Belange der SFKV im Besonderen und um den
-Kegelsport im Allgemeinen verdient gemacht haben, können auf Antrag der
-Unterverbände oder auf Vorschlag des Zentralvorstandes von der
-Delegiertenversammlung der SFKV zu Ehrenmitgliedern ernannt werden. Die
-Ernennung hat sich formell als Wahlakt zu vollziehen.
+Personen, die sich um die Belange der SFKV im Besonderen und um den Kegelsport im Allgemeinen verdient gemacht haben, können auf Antrag der Unterverbände oder auf Vorschlag des Zentralvorstandes von der Delegiertenversammlung der SFKV zu Ehrenmitgliedern ernannt werden.
 
-Die Ehrenmitglieder haben grundsätzlich die gleichen Rechte wie die
-anderen Verbandsmitglieder. Sie sind jedoch gegenüber der SFKV im Sinne
-von Artikel 58 beitragsfrei und kommen zusätzlich in den Genuss von
-Vergütungen gemäss Artikel 60.
+Die Ernennung hat sich formell als Wahlakt zu vollziehen.
+
+Die Ehrenmitglieder haben grundsätzlich die gleichen Rechte wie die anderen Verbandsmitglieder. Sie sind jedoch gegenüber der SFKV im Sinne von Artikel 58 beitragsfrei und kommen zusätzlich in den Genuss von Vergütungen gemäss Artikel 60.
 
 ### Artikel 19 Austritt von Mitgliedern auf eigenen Wunsch
 
-Austrittserklärungen von Mitgliedern sind dem zuständigen
-Unterverbands-Vorstand bis spätestens 30 Tage vor der Generalversammlung
-des laufenden Vereinsjahres schriftlich bekannt zu geben. Unterbleibt
-dies, kann vom betreffenden Mitglied der Jahresbeitrag für das folgende
-Vereinsjahr noch geltend gemacht werden.
+Austrittserklärungen von Mitgliedern sind dem zuständigen Unterverbands-Vorstand bis spätestens 30 Tage vor der Generalversammlung des laufenden Vereinsjahres schriftlich bekannt zu geben. Unterbleibt dies, kann vom betreffenden Mitglied der Jahresbeitrag für das folgende Vereinsjahr noch geltend gemacht werden.
 
 ### Artikel 20 Sanktionen gegen Mitglieder bei Verstoss gegen Statuten und Reglemente, wer ist hiezu zuständig
 
-SFKV-Mitglieder die gegen Statuten oder Reglemente verstossen bzw. durch
-ihr Verhalten dem Image der SFKV schaden, können je nach Zuständigkeit
-gemäss Artikel 22 in Unterverbands-Angelegenheiten durch den
-Unterverbands-Vorstand, durch die Klubpräsidentenversammlung oder durch
-die Generalversammlung, in Zentralverbands-Angelegenheiten je nach
-Zuständigkeit gemäss Artikel 22 durch den Zentralvorstand, durch die
-erweiterte ZV-Sitzung oder durch die Delegiertenversammlung SFKV zur
-Rechenschaft gezogen werden.
+SFKV-Mitglieder die gegen Statuten oder Reglemente verstossen bzw. durch ihr Verhalten dem Image der SFKV schaden, können je nach Zuständigkeit gemäss Artikel 22 in Unterverbands-Angelegenheiten durch den Unterverbands-Vorstand, durch die Klubpräsidentenversammlung oder durch die Generalversammlung, in Zentralverbands-Angelegenheiten je nach Zuständigkeit gemäss Artikel 22 durch den Zentralvorstand, durch die erweiterte ZV-Sitzung oder durch die Delegiertenversammlung SFKV zur Rechenschaft gezogen werden.
 
 ### Artikel 21 Unterscheidungs-Normen für Disziplinarstrafen, Sperre oder Ausschluss
 
 Es sind folgende Arten von Strafen zu unterscheiden:
 
-1\. Disziplinarstrafe (für leichtere Vergehen)
+1. Disziplinarstrafe (für leichtere Vergehen)  
+    Unter den Begriff Disziplinarstrafen fallen alle Massnahmen, die als leichter zu taxieren sind als Sperre und Ausschluss, z.B. einfacher oder scharfer schriftlicher Verweis etc.
 
-Unter den Begriff Disziplinarstrafen fallen alle Massnahmen, die als
-leichter zu taxieren sind als Sperre und Ausschluss, z.B. einfacher oder
-scharfer schriftlicher Verweis etc.
+2. Sperre (für mittlere Vergehen)  
+    Die Sperrfrist beträgt ein Jahr. Nach Ablauf der Sperrfrist muss das betreffende Mitglied wieder in der gleichen Kategorie starten, in welcher er vor der Aussprechung der Sperre eingeteilt war.
 
-2\. Sperre (für mittlere Vergehen)
+3. Ausschluss (für schwere Vergehen)  
+    Der Ausschluss beträgt 2 – 5 Jahre. das ausgeschlossene Mitglied verliert die Mitgliedschaft der SFKV. Nach Ablauf der Frist besteht die Möglichkeit, ein Aufnahmegesuch an diejenige Instanz zu stellen, die den Ausschluss verhängt hat. Wird einem solchem Aufnahmegesuch entsprochen, so hat das Mitglied wieder in der gleichen Kategorie zu starten in welcher er vor dem Ausschluss eingeteilt war.
 
-Die Sperrfrist beträgt ein Jahr. Nach Ablauf der Sperrfrist muss das
-betreffende Mitglied wieder in der gleichen Kategorie
-
-starten, in welcher er vor der Aussprechung der Sperre eingeteilt war.
-
-3\. Ausschluss (für schwere Vergehen)
-
-Der Ausschluss beträgt 2 – 5 Jahre. das ausgeschlossene Mitglied
-verliert die Mitgliedschaft der SFKV. Nach Ablauf der Frist besteht die
-Möglichkeit, ein Aufnahmegesuch an diejenige Instanz zu stellen, die den
-Ausschluss verhängt hat. Wird einem solchem Aufnahmegesuch entsprochen,
-so hat das Mitglied wieder in der gleichen Kategorie zu starten in
-welcher er vor dem Ausschluss eingeteilt war.
-
-Die Abgrenzung gemäss Ziffer 1 – 3 liegt von Fall zu Fall im Ermessen
-der für den jeweiligen Geltungsbereich zuständigen Instanz (UV-Vorstand
-oder Zentralvorstand).
+Die Abgrenzung gemäss Ziffer 1 – 3 liegt von Fall zu Fall im Ermessen der für den jeweiligen Geltungsbereich zuständigen Instanz (UV-Vorstand oder Zentralvorstand).
 
 ### Artikel 22 Zuständige Verfügungs-Instanz für Sanktionen gemäss Artikel 21
 
 Zur Aussprechung der unter Artikel 21 genannten Strafen sind zuständig:
 
-a\) Disziplinarstrafe
-
-Der Unterverbandsvorstand in UV-Angelegenheiten bzw. der Zentralvorstand
+a) Disziplinarstrafe  
+    Der Unterverbandsvorstand in UV-Angelegenheiten bzw. der Zentralvorstand
 in Zentralverband-Angelegenheiten
 
-b\) Sperre
+b) Sperre  
+    Die Klubpräsidenten-Versammlung des zuständigen Unterverbandes in UV-Angelegenheiten bzw. die erweiterte Zentralvorstands-Sitzung in Zentralverbands-Angelegenheiten, wobei mindestens 2 Vertreter jedes Unterverbandes eingeladen werden müssen, mit 2/3 Stimmenmehrheit der zurzeit der Abstimmung anwesenden Stimmberechtigten.
 
-Die Klubpräsidenten-Versammlung des zuständigen Unterverbandes in
-UV-Angelegenheiten bzw. die erweiterte Zentralvorstands-Sitzung in
-Zentralverbands-Angelegenheiten, wobei mindestens 2 Vertreter jedes
-Unterverbandes eingeladen werden müssen, mit 2/3 Stimmenmehrheit der
-zurzeit der Abstimmung anwesenden Stimmberechtigten.
-
-c\) Ausschluss
-
-Die Jahreshauptversammlung des zuständigen Unterverbandes in
-UV-Angelegenheiten bzw. die Delegiertenversammlung SFKV in
-Zentralverbands-Angelegenheiten mit 2/3 Stimmenmehrheit.
+c) Ausschluss  
+    Die Jahreshauptversammlung des zuständigen Unterverbandes in UV-Angelegenheiten bzw. die Delegiertenversammlung SFKV in Zentralverbands-Angelegenheiten mit 2/3 Stimmenmehrheit.
 
 ### Artikel 23 Rekursmöglichkeiten bei Sperre oder Ausschluss
 
@@ -225,35 +168,15 @@ Entscheid endgültig.
 
 ### Artikel 24 Sonderstatut für Ahndung von Vergehen, die von Mitgliedern eines Unterverbandes in kantonalen Angelegenheiten begangen wurden
 
-Fällt die Ahndung eines Vergehens innerhalb eines Kantonalverbandes vom
-Sachverhalt her beurteilt nicht in den Kompetenzbereich eines
-Unterverbandes, sondern in den des Kantonalverbandes, dann übernimmt
-derjenige Unterverband die Ahndung, dem das fehlbare Verbands-Mitglied
-angehört, auf entsprechende Meldung des Kantonalvorstandes. In solchen
-Fällen sind Rekursbegehren direkt an den Zentralvorstand zu richten.
+Fällt die Ahndung eines Vergehens innerhalb eines Kantonalverbandes vom Sachverhalt her beurteilt nicht in den Kompetenzbereich eines Unterverbandes, sondern in den des Kantonalverbandes, dann übernimmt derjenige Unterverband die Ahndung, dem das fehlbare Verbands-Mitglied angehört, auf entsprechende Meldung des Kantonalvorstandes. In solchen Fällen sind Rekursbegehren direkt an den Zentralvorstand zu richten.
 
 ### Artikel 25 Meldungen und Publikation über gesperrte und ausgeschlossene Mitglieder
 
-Unterverbände, die Mitglieder gesperrt oder ausgeschlossen haben sind
-verpflichtet, den Zentralvorstand hierüber zu orientieren. Nach Ablauf
-der Rekursfrist werden gesperrte oder ausgeschlossene Mitglieder auf der
-SFKV-Webseite publiziert. Die Publikation wird durch den Zentralvorstand
-veranlasst. Gesperrte oder ausgeschlossene Mitglieder können während der
-Dauer der Sperre bzw. des Ausschlusses an keinen offiziellen Anlässen
-der SFKV und deren Unterverbände teilnehmen. Dies gilt auch für eine
-eventuelle Kategorie Gäste. Gleichzeitig mit der Publikation auf der
-SFKV-Webseite wird der Schweizerische Sportkeglerverband schriftlich
-über die getroffenen Massnahmen orientiert, mit dem Ansuchen, das
-gesperrte oder ausgeschlossenen Mitglied nicht in den SSKV aufzunehmen.
+Unterverbände, die Mitglieder gesperrt oder ausgeschlossen haben sind verpflichtet, den Zentralvorstand hierüber zu orientieren. Nach Ablauf der Rekursfrist werden gesperrte oder ausgeschlossene Mitglieder auf der SFKV-Webseite publiziert. Die Publikation wird durch den Zentralvorstand veranlasst. Gesperrte oder ausgeschlossene Mitglieder können während der Dauer der Sperre bzw. des Ausschlusses an keinen offiziellen Anlässen der SFKV und deren Unterverbände teilnehmen. Dies gilt auch für eine eventuelle Kategorie Gäste. Gleichzeitig mit der Publikation auf der SFKV-Webseite wird der Schweizerische Sportkeglerverband schriftlich über die getroffenen Massnahmen orientiert, mit dem Ansuchen, das gesperrte oder ausgeschlossenen Mitglied nicht in den SSKV aufzunehmen.
 
 ### Artikel 26 Konsequenzen beim Verlust der SFKV-Mitgliedschaft
 
-Ausgetretene und ausgeschlossene SFKV-Mitglieder verlieren vom Tage des
-Austrittes oder Ausschlusses an, jeden Anspruch irgendwelcher Art an das
-Verbandsvermögen der SFKV oder an den, von der SFKV seinen Mitgliedern
-gewährten Vorteilen und Begünstigungen. Die Einlösung der im Besitze
-solcher Mitglieder befindlichen Kranzkarten hingegen bleibt
-gewährleistet.
+Ausgetretene und ausgeschlossene SFKV-Mitglieder verlieren vom Tage des Austrittes oder Ausschlusses an, jeden Anspruch irgendwelcher Art an das Verbandsvermögen der SFKV oder an den, von der SFKV seinen Mitgliedern gewährten Vorteilen und Begünstigungen. Die Einlösung der im Besitze solcher Mitglieder befindlichen Kranzkarten hingegen bleibt gewährleistet.
 
 ---
 
