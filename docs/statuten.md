@@ -307,111 +307,59 @@ Ein Beschluss entgegen dieser Bestimmung ist selbst während der Versammlung nic
 
 ### Artikel 40 Anzahl ZV-Mitglieder und Chargen
 
-Der Zentralvorstand setzt sich aus maximal 7 Mitgliedern zusammen. Der
-Vizepräsident sowie die übrigen Chargierten werden an der
-konstituierenden Sitzung durch den Zentralvorstand zugeteilt.
+Der Zentralvorstand setzt sich aus maximal 7 Mitgliedern zusammen. Der Vizepräsident sowie die übrigen Chargierten werden an der konstituierenden Sitzung durch den Zentralvorstand zugeteilt.
 
-Der Zentralvorstand kann administrative Arbeiten in eigener Kompetenz an
-eine externe Stelle verlagern.
+Der Zentralvorstand kann administrative Arbeiten in eigener Kompetenz an eine externe Stelle verlagern.
 
-Als Mitglied des Zentralvorstandes kann nur gewählt werden, wer
-handlungsfähig ist.
+Als Mitglied des Zentralvorstandes kann nur gewählt werden, wer handlungsfähig ist.
 
 ### Artikel 41 Amtsdauer für ZV-Mitglieder, Vorgehen bei Rücktrittsbegehren
 
-Die Amtsdauer des Zentralvorstandes beträgt 2 Jahre; nach deren Ablauf
-sind sämtliche Mitglieder des Zentralvorstandes wieder wählbar.
-Zentralvorstands-Mitglieder, die in einem Zwischenjahr gewählt werden,
-treten in die Amtsdauer derjenigen ein, an deren Stelle sie gewählt
-worden sind. Rücktritte aus dem Zentralvorstand sind auf eine
-Delegiertenversammlung hin, ein halbes Jahr vor Ende des Vereinsjahres
-dem Zentralpräsidenten schriftlich mitzuteilen.
+Die Amtsdauer des Zentralvorstandes beträgt 2 Jahre; nach deren Ablauf sind sämtliche Mitglieder des Zentralvorstandes wieder wählbar. Zentralvorstands-Mitglieder, die in einem Zwischenjahr gewählt werden, treten in die Amtsdauer derjenigen ein, an deren Stelle sie gewählt worden sind. Rücktritte aus dem Zentralvorstand sind auf eine Delegiertenversammlung hin, ein halbes Jahr vor Ende des Vereinsjahres dem Zentralpräsidenten schriftlich mitzuteilen.
 
 ### Artikel 42 Vertretung von Unterverbänden im Zentralvorstand; Meldung von ZV-Kandidaturen durch die Unterverbände
 
-Die zahlenmässige Vertretung der einzelnen Unterverbände im
-Zentralvorstand wird durch die Delegiertenversammlung bestimmt.
-Grundsätzlich steht jedem Unterverband das Recht zu, ein Mitglied in den
-Zentralvorstand vorzuschlagen.
+Die zahlenmässige Vertretung der einzelnen Unterverbände im Zentralvorstand wird durch die Delegiertenversammlung bestimmt. Grundsätzlich steht jedem Unterverband das Recht zu, ein Mitglied in den Zentralvorstand vorzuschlagen.
 
-Die Unterverbände melden Ihre Kandidaten bis zu dem auf der
-SFKV-Homepage publizierten Termin schriftlich dem Zentralpräsidenten.
+Die Unterverbände melden Ihre Kandidaten bis zu dem auf der SFKV-Homepage publizierten Termin schriftlich dem Zentralpräsidenten.
 
 ### Artikel 43 Aufgabenbereich des Zentralvorstandes generell
 
-Dem Zentralvorstand obliegt als vollziehendes Organ die gesamte
-Geschäftsleitung des SFKV-Zentralverbandes, im Sinne des Leitbildes, der
-Statuten und der Sportreglemente, die von der Delegiertenversammlung in
-Kraft gesetzt werden.
+Dem Zentralvorstand obliegt als vollziehendes Organ die gesamte Geschäftsleitung des SFKV-Zentralverbandes, im Sinne des Leitbildes, der
+Statuten und der Sportreglemente, die von der Delegiertenversammlung in Kraft gesetzt werden.
 
-Darüber hinaus fasst er die Beschlüsse in allen
-SFKV-Vereinsangelegenheiten, die nicht ausdrücklich der
-Delegiertenversammlung oder einem anderen Organ der SFKV übertragen
+Darüber hinaus fasst er die Beschlüsse in allen SFKV-Vereinsangelegenheiten, die nicht ausdrücklich der Delegiertenversammlung oder einem anderen Organ der SFKV übertragen
 sind.
 
-Damit zu einem späteren Zeitpunkt Beschlüsse, Reglementsänderungen und
-dergleichen nachvollziehbar sind, führt der Zentralvorstand ein Register
-aus dem alle gültigen Reglemente und deren Änderungen, Beschlüsse usw.
-ersichtlich sind.
+Damit zu einem späteren Zeitpunkt Beschlüsse, Reglementsänderungen und dergleichen nachvollziehbar sind, führt der Zentralvorstand ein Register aus dem alle gültigen Reglemente und deren Änderungen, Beschlüsse usw. ersichtlich sind.
 
-Der Zentralvorstand vertritt die SFKV nach aussen. Die
-rechtsverbindliche Unterschrift führen der Zentralpräsident, dessen
-
-Vizepräsident und der Zentralsekretär je zu zweien.
+Der Zentralvorstand vertritt die SFKV nach aussen. Die rechtsverbindliche Unterschrift führen der Zentralpräsident, dessen Vizepräsident und der Zentralsekretär je zu zweien.
 
 ### Artikel 44 Pflicht zur Beachtung ideeller Grund-Prinzipien
 
-Der Zentralvorstand hat den SFKV-Vereinsbetrieb so zu überwachen und zu
-gestalten, dass die Grundprinzipien des SFKV-Vereinszweckes niemals in
-Frage gestellt werden.
+Der Zentralvorstand hat den SFKV-Vereinsbetrieb so zu überwachen und zu gestalten, dass die Grundprinzipien des SFKV-Vereinszweckes niemals in Frage gestellt werden.
 
 ### Artikel 45 Vorsitz an den ZV-Sitzungen; Zweck und Umfang von erweiterten Zentralvorstands-Sitzungen
 
-An allen Sitzungen, Versammlungen und offiziellen Konferenzen des
-Zentralvorstandes führt der Präsident den Vorsitz, im Verhinderungsfalle
-der Vizepräsident. Auf Einladung des Präsidenten tritt der
-Zentralvorstand so oft zu Sitzungen zusammen, als es die Geschäfte
-erfordern. Je nach Bedürfnis, kann der Zentralvorstand eine erweiterte
-ZV-Sitzung einzuberufen, die nur orientierenden Charakter hat; die
-Ausnahme bestimmt der Artikel 22b. Zu den erweiterten ZV-Sitzungen
-werden Ehrenmitglieder der SFKV, die Mitglieder der
-Rechnungsprüfungs-Kommission sowie, entsprechend den aktuellen Themen
-der Traktandenliste, eine bestimmte Anzahl von
-Unterverbands-Vorstandsfunktionären eingeladen.
+An allen Sitzungen, Versammlungen und offiziellen Konferenzen des Zentralvorstandes führt der Präsident den Vorsitz, im Verhinderungsfalle der Vizepräsident. Auf Einladung des Präsidenten tritt der Zentralvorstand so oft zu Sitzungen zusammen, als es die Geschäfte erfordern. Je nach Bedürfnis, kann der Zentralvorstand eine erweiterte ZV-Sitzung einzuberufen, die nur orientierenden Charakter hat; die Ausnahme bestimmt der Artikel 22b. Zu den erweiterten ZV-Sitzungen werden Ehrenmitglieder der SFKV, die Mitglieder der Rechnungsprüfungs-Kommission sowie, entsprechend den aktuellen Themen der Traktandenliste, eine bestimmte Anzahl von Unterverbands-Vorstandsfunktionären eingeladen.
 
 ### Artikel 46 Ehrenamtliche ZV-Tätigkeit, Grundsatzbestimmung betreffend Entschädigung der ZV-Mitglieder
 
-Die Mitglieder des Zentralvorstandes üben Ihre Tätigkeit, sowohl im
-Zentralvorstands-Gremium wie in den Kommissionen,
-
-grundsätzlich ehrenamtlich aus. Für Sitzungen, Versammlungen,
-Konferenzen, Delegationen etc. werden sie gemäss Artikel 60 entschädigt.
-Die Mitglieder des Zentralvorstandes erhalten die Lizenz kostenlos.
+Die Mitglieder des Zentralvorstandes üben Ihre Tätigkeit, sowohl im Zentralvorstands-Gremium wie in den Kommissionen, grundsätzlich ehrenamtlich aus. Für Sitzungen, Versammlungen, Konferenzen, Delegationen etc. werden sie gemäss Artikel 60 entschädigt. Die Mitglieder des Zentralvorstandes erhalten die Lizenz kostenlos.
 
 ### Artikel 47 Verbindlichkeiten bei ZV-Beschlüssen und diesbezügliche Sonderregelungen
 
-Der Zentralvorstand fasst seine Beschlüsse an den Sitzungen mit
-einfachem Mehr; der Zentralpräsident hat den Stichentscheid. Für das
-Zusammenkommen von gültigen ZV-Beschlüssen bedarf es der Anwesenheit von
-mindestens der Hälfte des Zentralvorstandes.
+Der Zentralvorstand fasst seine Beschlüsse an den Sitzungen mit einfachem Mehr; der Zentralpräsident hat den Stichentscheid. Für das Zusammenkommen von gültigen ZV-Beschlüssen bedarf es der Anwesenheit von mindestens der Hälfte des Zentralvorstandes.
 
-In besonderen Situationen ist der Zentralvorstand ermächtigt, Beschlüsse
-auf schriftlichem Weg oder elektronischem Weg zu fassen. Voraussetzungen
-hierzu sind:
-
-Die Zustellung eines sachbezüglichen Berichtes und Antrages an sämtliche
-Mitglieder des Zentralvorstandes
-
-Die einstimmige Beschlussfassung durch den gesamten Zentralvorstand.
+In besonderen Situationen ist der Zentralvorstand ermächtigt, Beschlüsse auf schriftlichem Weg oder elektronischem Weg zu fassen. Voraussetzungen hierzu sind:  
+- Die Zustellung eines sachbezüglichen Berichtes und Antrages an sämtliche Mitglieder des Zentralvorstandes
+- Die einstimmige Beschlussfassung durch den gesamten Zentralvorstand.
 
 ### Artikel 48 Pflichtenheft als Grundlage der ZV-Tätigkeit
 
-Das Aufgaben- und Kompetenzen-Potential der einzelnen Chargen des
-Zentralvorstandes ist durch den Zentralvorstand in einem Pflichtenheft
-zu verankern.
+Das Aufgaben- und Kompetenzen-Potential der einzelnen Chargen des Zentralvorstandes ist durch den Zentralvorstand in einem Pflichtenheft zu verankern.
 
-Das Pflichtenheft ist den durch die ständige Entwicklung der SFKV
-veränderten Situationen laufend anzupassen.
+Das Pflichtenheft ist den durch die ständige Entwicklung der SFKV veränderten Situationen laufend anzupassen.
 
 ---
 
