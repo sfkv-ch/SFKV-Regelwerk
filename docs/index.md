@@ -1,6 +1,8 @@
-Willkommen im offiziellen Regelwerk des SFKV.
+Willkommen im Regelwerk der SFKV.
 
-Diese Plattform enthält die gültigen und aktuellen Dokumente des Verbandes.
+Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiziell.
+
+**Die gültigen Dokumente sind auf www.sfkv.ch publiziert.**
 
 ---
 
