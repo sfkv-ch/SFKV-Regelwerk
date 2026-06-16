@@ -12,6 +12,12 @@ Diese Plattform enthält die gültigen und aktuellen Dokumente des Verbandes.
 
 ---
 
+### Richtlinien
+
+- [Bonuspunkte](bonuspunkte.md)
+
+---
+
 ## ℹ️ Hinweis
 
 Alle Dokumente werden zentral gepflegt und automatisch aus dem internen Repository synchronisiert.
