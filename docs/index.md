@@ -12,7 +12,7 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 {% for group in groups %}
 
-{{ group }}
+## {{ group }}
 
 {% assign docs = site.pages
 | where: "groupe", group
