@@ -15,7 +15,7 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 {{ group }}
 
 {% assign docs = site.pages
-| where: "group", group
+| where: "groupe", group
 | sort: "title" %}
 
 {% for doc in docs %}
