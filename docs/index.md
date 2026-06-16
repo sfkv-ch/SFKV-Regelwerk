@@ -20,7 +20,7 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 {% for doc in docs %}
 
-[{{ doc.shorttitle | default: doc.title }}]({{ doc.url }})
+- [{{ doc.shorttitle | default: doc.title }}](/docs/{{ doc.name }}/)  
 {{ doc.description }}
 {% endfor %}
 
