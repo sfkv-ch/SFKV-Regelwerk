@@ -2,7 +2,7 @@ Willkommen im Regelwerk der SFKV.
 
 Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiziell.
 
-**Die gültigen Dokumente sind auf www.sfkv.ch publiziert.**
+**Die gültigen Dokumente sind auf [www.sfkv.ch](https://www.sfkv.ch/archiv/richtlinien) publiziert.**
 
 ---
 
