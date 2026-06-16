@@ -8,17 +8,23 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 ---
 
-## 📄 Dokumente
+{% assign groups = "Leitbild,Statuten,Reglemente,Richtlinien" | split: "," %}
 
-- [Leitbild](leitbild.md)
-- [Statuten](statuten.md)
-- [Sportreglement](sportreglement.md)
+{% for group in groups %}
 
----
+{{ group }}
 
-### Richtlinien
+{% assign docs = site.pages
+| where: "group", group
+| sort: "title" %}
 
-- [Bonuspunkte](bonuspunkte.md)
+{% for doc in docs %}
+
+[{{ doc.shorttitle | default: doc.title }}]({{ doc.url }})
+{{ doc.description }}
+{% endfor %}
+
+{% endfor %}
 
 ---
 
