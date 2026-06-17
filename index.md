@@ -17,7 +17,7 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 {% for doc in docs %}
 
-- [{{ doc.shorttitle | default: doc.title }}]({{ doc.url }})
+- [{{ doc.shorttitle | default: doc.title }}]({{ site.baseurl }}{{ doc.url }})  
   {{ doc.description }}
 
 {% endfor %}
