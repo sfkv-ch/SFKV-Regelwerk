@@ -26,34 +26,6 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 ---
 
-## ℹ️ Debug / Tests
-
-### 📦 Anzahl Docs in Collection
-{{ site.docs | size }}
-
----
-
-### 📦 Base URL
-{{ site.baseurl }}
-
----
-
-### 📄 Alle Docs URLs
-{% for doc in site.docs %}
-- {{ doc.name }} → {{ doc.url }}
-{% endfor %}
-
----
-
-### 🧪 Rohdaten (wichtige Felder)
-{% for doc in site.docs %}
-- title: {{ doc.title }}
-  group: {{ doc.group }}
-  path: {{ doc.path }}
-{% endfor %}
-
----
-
 ## ℹ️ Hinweis
 
 Alle Dokumente werden zentral gepflegt und automatisch aus dem internen Repository synchronisiert.
