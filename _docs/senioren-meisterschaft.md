@@ -2,7 +2,7 @@
 title: Richtlinie Schweizerische Seniorinnen- und Senioren-Meisterschaft
 shorttitle: Seniorenmeisterschaft
 description: Richtlinie der Schweizerischen Freien Keglervereinigung für die Organisation, Durchführung und Auszeichnung der Schweizerischen Seniorinnen- und Senioren-Meisterschaft.
-groupe: Richtlinien
+group: Richtlinien
 ---
 
 # Richtlinien Schweizerische Seniorinnen- und Senioren-Meisterschaft
