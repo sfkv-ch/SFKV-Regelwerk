@@ -2,7 +2,7 @@
 title: Richtlinie Klubcup der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Klubcup
 description: Die Richtlinien des SFKV-Klubcups regeln die Teilnahmebedingungen, Austragung, Wettkampfmodus, Terminvereinbarungen, Aufgaben der Klubs und Unterverbände, Mieten und Organisation der Kegelbahnen, Auszeichnungen für Mannschaften und Einzelkegler sowie das Verfahren für Proteste und deren Behandlung durch die Cup-Kommission
-groupe: Richtlinien
+group: Richtlinien
 ---
 
 # Richtlinien Schweizer Klubcup
