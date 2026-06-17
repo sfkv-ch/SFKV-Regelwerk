@@ -2,7 +2,7 @@
 title: Richtlinie Schweizer Meisterschaft
 shorttitle: Schweizermeisterschaft
 description: Die Richtlinie beschreibt die organisatorischen, administrativen und sportlichen Richtlinien für die Durchführung der Schweizer Meisterschaft, einschließlich Vorgaben zu Planung, Ablauf, Auszeichnungen, Pflichten der Organisatoren, Finaltag und Sponsoring
-groupe: Richtlinien
+group: Richtlinien
 ---
 
 # Richtlinie Schweizer Meisterschaft
