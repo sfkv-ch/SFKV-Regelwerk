@@ -33,6 +33,11 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 ---
 
+### 📦 Base URL
+{{ site.baseurl }}
+
+---
+
 ### 📄 Alle Docs URLs
 {% for doc in site.docs %}
 - {{ doc.name }} → {{ doc.url }}
