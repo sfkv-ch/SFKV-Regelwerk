@@ -2,7 +2,7 @@
 title: Richtlinie Delegiertenversammlung der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Delegiertenversammlung
 description: Das Dokument enthält die Richtlinien für die Organisation und Durchführung der SFKV-Delegiertenversammlung, einschließlich Bewerbungsprozess, organisatorischer Vorbereitung, Sponsoring-Vorgaben und allgemeinen Hinweisen für die Organisatoren
-groupe: Richtlinien
+group: Richtlinien
 ---
 
 # Richtlinien SFKV - Delegiertenversammlung  
