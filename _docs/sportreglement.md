@@ -2,7 +2,7 @@
 title: Sportreglement der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Sportreglement
 description: Sportreglement der Schweizerischen Freien Keglervereinigung
-groupe: Reglemente
+group: Reglemente
 ---
 
 # Sportreglement der Schweizerischen Freien Keglervereinigung (SFKV)
