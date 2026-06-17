@@ -2,7 +2,7 @@
 title: Richtlinie Bonuspunkte der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Bonuspunkte
 description: Richtlinie zur Vergabe von Bonuspunkten für die Kategorien B und C
-groupe: Richtlinien
+group: Richtlinien
 ---
 
 # Richtlinie Bonuspunkte der Schweizerischen Freien Keglervereinigung (SFKV)
