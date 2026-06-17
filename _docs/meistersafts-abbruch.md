@@ -2,7 +2,7 @@
 title: Richtlinie Meisterschaftsabbruch der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Meisterschaftsabbruch
 description: Die Richtlinie beschreibt das Vorgehen und die Konsequenzen beim Abbruch einer Meisterschaft durch einen Kegler, insbesondere wie Ergebnisse im MAP-System erfasst, gelöscht und für Auf-/Abstieg sowie Auszeichnungen berücksichtigt werden.
-groupe: Richtlinien
+group: Richtlinien
 ---
 
 ## SFKV – Meisterschafts-Abbruch
