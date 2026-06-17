@@ -3,8 +3,6 @@ Diese Plattform ist in Arbeit. Aktuell sind die hier publizierten Regeln inoffiz
 
 **Die gültigen Dokumente sind auf** **[www.sfkv.ch](https://www.sfkv.ch/archiv/richtlinien)** **publiziert.**
 
-{{ site.time }}
-
 ---
 
 {% assign groups = "Leitbild,Statuten,Reglemente,Richtlinien" | split: "," %}
