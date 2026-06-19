@@ -1,42 +1,109 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .layout {
+      display: flex;
+      gap: 20px;
+    }
+
+    aside {
+      width: 300px;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+      padding: 20px;
+      border-right: 1px solid #ddd;
+    }
+
+    main {
+      flex: 1;
+      padding: 20px;
+    }
+
+    aside ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    aside li {
+      margin: 4px 0;
+    }
+
+    aside a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    aside a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 
 <body>
 
-<div style="display:flex; gap:20px;">
+<div class="layout">
 
-  <!-- LINKS -->
-  <aside style="width:300px;">
-    <h3>Dokumente</h3>
-
-    {% assign groups = "Leitbild,Statuten,Reglemente,Richtlinien" | split: "," %}
-
-    {% for group in groups %}
-      <strong>{{ group }}</strong>
-      <ul>
-        {% assign docs = site.docs | where: "group", group | sort: "title" %}
-        {% for doc in docs %}
-          <li>
-            <a href="{{ doc.url | relative_url }}">
-              {{ doc.title }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
-
+  <!-- LEFT: TOC -->
+  <aside>
+    <h3>Inhalt</h3>
+    <nav id="toc"></nav>
   </aside>
 
-  <!-- CONTENT -->
-  <main style="flex:1;">
+  <!-- RIGHT: CONTENT -->
+  <main>
     {{ content }}
   </main>
 
 </div>
+
+<!-- TOC GENERATION -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const tocContainer = document.getElementById("toc");
+  const headings = document.querySelectorAll("main h2, main h3");
+
+  if (!tocContainer || headings.length === 0) return;
+
+  const ul = document.createElement("ul");
+
+  headings.forEach(h => {
+
+    // automatische ID erzeugen, falls fehlt
+    if (!h.id) {
+      h.id = h.textContent
+        .toLowerCase()
+        .replace(/\s+/g, '-')
+        .replace(/[^\w\-]/g, '');
+    }
+
+    const li = document.createElement("li");
+
+    // Einrückung für H3
+    if (h.tagName === "H3") {
+      li.style.marginLeft = "15px";
+    }
+
+    li.innerHTML = `<a href="#${h.id}">${h.textContent}</a>`;
+    ul.appendChild(li);
+  });
+
+  tocContainer.appendChild(ul);
+
+});
+</script>
 
 </body>
 </html>
