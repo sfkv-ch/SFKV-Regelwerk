@@ -22,9 +22,10 @@ Selbstverständnis:
 
 - Wir wollen folgende Hauptaktivitäten fördern und verankern
 
-- Kameradschaft
+    a) Kameradschaft
 
-- Kegeln als Breiten- und Leistungssport
+  
+    b) Kegeln als Breiten- und Leistungssport
 
 - Wir verstehen uns gleichzeitig als Organisator, Dienstleister und
   Interessenvertreter für unsere Einzel- und Klubmitglieder, welche
