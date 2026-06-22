@@ -35,14 +35,11 @@ markdown_extensions:
 nav:
   - Start: index.md
 
-  - Leitbild:
-      - Übersicht: leitbild.md
+  - Leitbild: leitbild.md
 
-  - Statuten:
-      - Übersicht: statuten.md
+  - Statuten: statuten.md
 
-  - Sportreglement:
-      - Übersicht: sportreglement.md
+  - Sportreglement: sportreglement.md
 
   - Richtlinien:
       - Bonuspunkte: bonuspunkte.md
