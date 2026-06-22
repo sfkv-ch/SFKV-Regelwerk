@@ -6,9 +6,7 @@ Diese Plattform befindet sich im Aufbau und wird schrittweise auf ein neues Doku
 
 ## 📌 Offizielle Gültigkeit
 
-Die jeweils gültigen Dokumente sind weiterhin auf  
-👉 https://www.sfkv.ch/archiv/richtlinien  
-veröffentlicht.
+Die jeweils gültigen Dokumente sind weiterhin auf 👉 [https://www.sfkv.ch/archiv/richtlinien](https://www.sfkv.ch/archiv/richtlinien) veröffentlicht.
 
 Diese Plattform dient aktuell als technische Ablösung und interne Arbeitsbasis.
 
