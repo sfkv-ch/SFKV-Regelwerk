@@ -45,10 +45,10 @@ nav:
       - Übersicht: sportreglement.md
 
   - Richtlinien:
-      - Bonuspunkte: richtlinien/bonuspunkte.md
-      - Delegiertenversammlung: richtlinien/delegiertenversammlung.md
-      - Einzelcup: richtlinien/einzelcup.md
-      - Klubcup: richtlinien/klubcup.md
-      - Meisterschafts-Abbruch: richtlinien/meisterschafts-abbruch.md
-      - Schweizermeisterschaft: richtlinien/schweizermeisterschaft.md
-      - Senioren-Meisterschaft: richtlinien/senioren-meisterschaft.md
+      - Bonuspunkte: bonuspunkte.md
+      - Delegiertenversammlung: delegiertenversammlung.md
+      - Einzelcup: einzelcup.md
+      - Klubcup: klubcup.md
+      - Meisterschafts-Abbruch: meisterschafts-abbruch.md
+      - Schweizermeisterschaft: schweizermeisterschaft.md
+      - Senioren-Meisterschaft: senioren-meisterschaft.md
