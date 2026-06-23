@@ -12,6 +12,10 @@ Diese Plattform dient aktuell als technische Ablösung und interne Arbeitsbasis.
 
 ---
 
+## 📌 Regelwerksordnung
+
+Aufbau und struktur des Regelwerkes sind in der 👉 [Regelwerksordnung](regelwerksordnung) beschrieben.
+
 ## 📚 Dokumentbereiche
 
 ### Leitbild
