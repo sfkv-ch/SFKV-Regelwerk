@@ -12,27 +12,11 @@ Diese Plattform dient aktuell als technische Ablösung und interne Arbeitsbasis.
 
 ---
 
-## 📚 Dokumentbereiche
-
-### Leitbild
-- Grundsätze und Ausrichtung des Verbandes
-
-### Statuten
-- Rechtliche und organisatorische Grundlagen
-
-### Sportreglement
-- Regeln des Spielbetriebs
-
-### Richtlinien
-- Ergänzende Bestimmungen und Spezialregeln
-
----
-
 ## 🧭 Navigation
 
 Die vollständige Struktur ist über das Menü erreichbar.
 
-Zusätzlich kannst du innerhalb der Dokumente die Kapitel über die Überschriften (H2 / H3) direkt anwählen.
+Zusätzlich kannst du innerhalb der Dokumente die Kapitel über die Überschriften direkt anwählen.
 
 ---
 
@@ -46,6 +30,5 @@ Die jeweils aktuelle Version im System ersetzt schrittweise das bisherige Publik
 
 ## 🚀 Status
 
-- System: MkDocs Material
-- Aufbauphase: aktiv
+- Aufbauphase: aktiv  
 - Migration: laufend
