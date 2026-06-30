@@ -9,34 +9,9 @@ group: Leitbild
 
 ## 1. Selbstverständnis 
 
-Die Schweizerische Freie Keglervereinigung (SFKV) wurde 1952 gegründet.
-Sie ist die grösste und bedeutendste Vereinigung in der Schweiz, die das
-Kegeln in die Vollen (d.h. auf alle neun Kegel) in verschiedenen
-spielerischen und sportlichen Wettkampfformen betreibt und fördert.
-
-Die SFKV und ihre Mitgliedsverbände bekennen sich zu folgendem
-Selbstverständnis:
-
-- Wir sind die Keglervereinigung in der Schweiz für das Kegeln in die
-  Vollen.
-
-- Wir wollen folgende Hauptaktivitäten fördern und verankern
-
-    a) Kameradschaft
-
-  
-    b) Kegeln als Breiten- und Leistungssport
-
-- Wir verstehen uns gleichzeitig als Organisator, Dienstleister und
-  Interessenvertreter für unsere Einzel- und Klubmitglieder, welche
-  Kegeln an der Basis anbieten und ausüben.
-
-- Wir sind offen gegenüber neuen Trends und keglerischen Spiel- und
-  Wettkampfformen.
-
-- Wir pflegen die Zusammenarbeit mit dem Schweizer Sportkeglerverband
-  (SSKV), Schweizerischen Eisenbahner-Sportkeglerverband (SESKV), sowie
-  dem Schweizer Firmensport (SFS) und den Kegelbahnbetreibern.
+Die SFKV ist die führende Vereinigung in der Schweiz für das Kegeln in die Vollen.
+Sie fördert den Kegelsport als Breiten- und Leistungssport.
+Die SFKV ist offen gegenüber neuen Entwicklungen im Kegelsport und pflegt die Zusammenarbeit mit relevanten Partnerorganisationen.
 
 ## 2. Sportliches
 
