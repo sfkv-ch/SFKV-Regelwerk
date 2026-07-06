@@ -15,13 +15,13 @@ Die Statuten bilden die rechtliche und organisatorische Grundlage des Verbandes.
   
 - Grundsatz der Existenz folgender Elemente:
     
-  - Leitbild
+    - Leitbild
     
-  - Governance
+    - Governance
     
-  - Reglemente
+    - Reglemente
     
-  - Richtlinien
+    - Richtlinien
     
 - Delegation der operativen Ausgestaltung an nachgelagerte Dokumente
 
