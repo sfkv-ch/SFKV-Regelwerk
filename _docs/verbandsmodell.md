@@ -9,21 +9,22 @@ Statuten, Leitbild, Governance, Reglemente, Richtlinien
 Die Statuten bilden die rechtliche und organisatorische Grundlage des Verbandes.
 
 **Inhalt:**
-- Organe des Verbandes (DV, ZV, Kommissionen)
+
+Organe des Verbandes (DV, ZV, Kommissionen)
   
-- Zuständigkeiten und Kompetenzen
+Zuständigkeiten und Kompetenzen
   
-- Grundsatz der Existenz folgender Elemente:
+Grundsatz der Existenz folgender Elemente:
     
-    - Leitbild
+- Leitbild
     
-    - Governance
+- Governance
     
-    - Reglemente
+- Reglemente
     
-    - Richtlinien
+- Richtlinien
     
-- Delegation der operativen Ausgestaltung an nachgelagerte Dokumente
+Delegation der operativen Ausgestaltung an nachgelagerte Dokumente
 
 **Genehmigung:**
 
