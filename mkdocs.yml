@@ -35,6 +35,8 @@ markdown_extensions:
 nav:
   - Start: index.md
 
+  - Verbandsmodell: verbandsmodell.md
+
   - Leitbild: leitbild.md
 
   - Statuten: statuten.md
@@ -49,5 +51,3 @@ nav:
       - Meisterschafts-Abbruch: meisterschafts-abbruch.md
       - Schweizermeisterschaft: schweizermeisterschaft.md
       - Senioren-Meisterschaft: senioren-meisterschaft.md
-      
-  - Regelwerksordnung: regelwerksordnung.md
