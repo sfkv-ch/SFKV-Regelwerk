@@ -81,7 +81,7 @@ Die Governance regelt verbindlich, wie Entscheidungen getroffen, dokumentiert un
 
 **Genehmigung:**
 
-Delegiertenversammlung
+Zentralvorstand
 
 
 **Funktion:**
