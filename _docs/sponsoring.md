@@ -5,7 +5,7 @@ description: Diese Richtlinie regelt die Grundsätze des Sponsorings. Sie defini
 group: Richtlinien
 ---
 
-# SFKV – Richtlinien Sponsoring
+# SFKV – Richtlinie Sponsoring
 
 Der SFKV-Zentralvorstand erlässt nachstehende Richtlinien
 
