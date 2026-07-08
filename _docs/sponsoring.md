@@ -1,7 +1,7 @@
 ---
 title: Richtlinie Sponsoring der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Sponsoring
-description: Diese Richtlinien regeln die Grundsätze des Sponsorings im SFKV. Sie definieren die Rahmenbedingungen für Sponsoring-, Gönner- und Passivvereinbarungen sowie die damit verbundenen Rechte und Pflichten.
+description: Diese Richtlinie regelt die Grundsätze des Sponsorings. Sie definiert die Rahmenbedingungen für Sponsoring-, Gönner- und Passivvereinbarungen sowie die damit verbundenen Rechte und Pflichten.
 group: Richtlinien
 ---
 
