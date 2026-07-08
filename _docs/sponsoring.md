@@ -1,7 +1,7 @@
 ---
 title: Richtlinie Sponsoring der Schweizerischen Freien Keglervereinigung (SFKV)
 shorttitle: Sponsoring
-description: Die Richtlinien für den SFKV-Einzelcup regeln die Qualifikation, Anmeldung, Durchführung, Auslosung, Wettkampfablauf, Auszeichnungen und organisatorische Verantwortlichkeiten für den jährlichen Einzelcup der Schweizerischen Freien Keglervereinigung
+description: Diese Richtlinien regeln die Grundsätze des Sponsorings im SFKV. Sie definieren die Rahmenbedingungen für Sponsoring-, Gönner- und Passivvereinbarungen sowie die damit verbundenen Rechte und Pflichten.
 group: Richtlinien
 ---
 
