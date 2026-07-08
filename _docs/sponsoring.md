@@ -7,7 +7,7 @@ group: Richtlinien
 
 # SFKV – Richtlinie Sponsoring
 
-Der SFKV-Zentralvorstand erlässt nachstehende Richtlinien
+Der SFKV-Zentralvorstand erlässt nachstehende Richtlinie
 
 ## Punkt 1 Zielsetzung SFKV-Sponsoring
 
