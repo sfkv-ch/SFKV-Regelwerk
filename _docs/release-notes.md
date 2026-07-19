@@ -1,4 +1,4 @@
-# Release 2026.05
+# Release 2026.06
 
 Datum: 19.07.2026
 
