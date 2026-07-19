@@ -1,4 +1,4 @@
-name: Manual MkDocs Build & Deploy
+name: Publizieren
 
 on:
   workflow_dispatch:
